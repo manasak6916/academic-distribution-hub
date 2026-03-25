@@ -1,1 +1,15 @@
-
+# Single-Cell Foundation Models (SCFMs): A 2025 Guide to Applications, Benchmarks, and Future Directions
+## Summary
+This report reviews single-cell foundation models, their core architectures, benchmark performance, and practical applications in biological discovery workflows.
+## Extended Summary
+Single-cell foundation models (SCFMs) are becoming a central approach for representation learning in high-dimensional cellular data analysis. This report summarizes the 2025 landscape of SCFMs, including model pretraining strategies, transferability across tasks, robustness under data shifts, and benchmark-level performance across annotation, perturbation response, and multimodal integration scenarios. It also outlines current constraints such as label sparsity, domain mismatch, and reproducibility gaps between curated benchmarks and real production pipelines. The document compares major model families, highlights where performance gains are statistically meaningful, and identifies engineering tradeoffs in compute, latency, and inference stability. Finally, it proposes practical selection guidance for research and applied teams, including when to prioritize interpretability, when to favor generalization, and where hybrid workflows with classical methods still provide better cost-performance balance.
+## Source
+- Original URL: https://example.com/articles/single-cell-foundation-models-2025
+- Domain: example.com
+- Doc ID: 69255003edeecce4361e1cbb
+## Keywords
+single-cell foundation models, single-cell analysis, representation learning, benchmark evaluation, biomedical AI
+## Files
+- report.pdf
+- summary.json
+- metadata.json

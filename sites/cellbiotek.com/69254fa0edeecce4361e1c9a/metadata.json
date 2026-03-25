@@ -1,1 +1,35 @@
-
+{
+  "doc_id": "69255003edeecce4361e1cbb",
+  "title": "Single-Cell Foundation Models (SCFMs): A 2025 Guide to Applications, Benchmarks, and Future Directions",
+  "description": "A structured research report on single-cell foundation models, covering architecture trends, benchmark outcomes, deployment constraints, and practical selection guidance.",
+  "keywords": [
+    "single-cell foundation models",
+    "single-cell analysis",
+    "representation learning",
+    "benchmark evaluation",
+    "biomedical AI"
+  ],
+  "topic": "computational biology",
+  "intent": "research",
+  "language": "en",
+  "source_url": "https://example.com/articles/single-cell-foundation-models-2025",
+  "canonical": "https://example.com/articles/single-cell-foundation-models-2025",
+  "audience": "bioinformatics researchers and applied ML teams",
+  "license": "CC-BY-4.0",
+  "quality_score": 88,
+  "confidence": 0.91,
+  "pdf_file": "report.pdf",
+  "original_pdf_filename": "single-cell-foundation-models-scfms-a-2025-guide-to-applications-benchmarks-and-future-directions_20260324.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "published_at": "2026-03-24T10:30:00Z",
+  "authors": [
+    {
+      "name": "AI Chemical Data Analysis Team",
+      "affiliation": "FutureCeed Research"
+    }
+  ],
+  "distribution_targets": [
+    "zenodo",
+    "github"
+  ]
+}
