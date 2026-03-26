@@ -1,0 +1,31 @@
+{
+  "title": "Single-Cell Foundation Models (scFMs): A 2025 Guide to Applications, Benchmarks, and Future Directions",
+  "description": "A comprehensive guide exploring the architectures, tokenization strategies, applications, and benchmarking of single-cell foundation models in computational biology and drug discovery.",
+  "keywords": [
+    "single-cell foundation models",
+    "scFMs",
+    "computational biology",
+    "transformer architectures",
+    "tokenization",
+    "scGPT",
+    "Geneformer",
+    "scBERT",
+    "batch integration",
+    "cell type annotation",
+    "zero-shot evaluation",
+    "BioLLM"
+  ],
+  "topic": "Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69254fa0edeecce4361e1c9a",
+  "source_url": "",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "single-cell-foundation-models-scfms-a-2025-guide-to-applications-benchmarks-and-future-directions_20260324.pdf"
+}
