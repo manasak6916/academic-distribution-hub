@@ -1,0 +1,29 @@
+{
+  "title": "Beyond the Model: A Practical Guide to Validating Movement Ecology Approaches in Biomedical Research",
+  "description": "A comprehensive guide on validating movement ecology models, including RSF, SSF, and HMM, emphasizing rigorous evaluation standards, methodologies, and documentation frameworks for biomedical research and conservation.",
+  "keywords": [
+    "movement ecology",
+    "model validation",
+    "Resource Selection Function",
+    "Step Selection Function",
+    "Hidden Markov Model",
+    "biomedical research",
+    "biologging",
+    "evaludation",
+    "TRACE framework",
+    "Randomized Shortest Path"
+  ],
+  "topic": "Movement Ecology Model Validation",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69254f9aedeecce4361e1c97",
+  "source_url": "https://www.ecologysci.com/posts/ecologysci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "beyond-the-model-a-practical-guide-to-validating-movement-ecology-approaches-in-biomedical-research_20260330.pdf"
+}
