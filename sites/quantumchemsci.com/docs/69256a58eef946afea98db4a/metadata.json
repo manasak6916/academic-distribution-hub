@@ -1,0 +1,29 @@
+{
+  "title": "Quantum Algorithms for NMR Shielding Computation: Current Methods, Breakthroughs, and Future Directions for Researchers",
+  "description": "A comprehensive analysis of quantum computing applications for calculating NMR shielding constants, covering classical bottlenecks, Google's Quantum Echoes algorithm, hybrid ML methods, and quantum error correction.",
+  "keywords": [
+    "Quantum Computing",
+    "NMR Shielding Constants",
+    "Quantum Echoes",
+    "Machine Learning",
+    "CCSD(T)",
+    "TARDIS Framework",
+    "Superconducting Qubits",
+    "Trapped-Ion Qubits",
+    "Drug Discovery",
+    "Computational Chemistry"
+  ],
+  "topic": "Quantum Chemistry and Computing",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and pharmaceutical professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a58eef946afea98db4a",
+  "source_url": "https://www.quantumchemsci.com/posts/quantumchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "quantum-algorithms-for-nmr-shielding-computation-current-methods-breakthroughs-and-future-directions-for-researchers_20260331.pdf"
+}
