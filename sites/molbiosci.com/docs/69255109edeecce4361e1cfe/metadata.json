@@ -1,0 +1,28 @@
+{
+  "title": "Protein Side-Chain Rotamers: From Statistical Foundations to AI-Driven Prediction in Drug Discovery",
+  "description": "A comprehensive overview of the statistical conformations of protein side-chain rotamers, exploring rotamer libraries, computational prediction methods, AI integration, and applications in drug discovery.",
+  "keywords": [
+    "rotamer",
+    "side-chain conformation",
+    "rotamer library",
+    "protein design",
+    "molecular dynamics",
+    "AlphaFold",
+    "drug discovery",
+    "iMinDEE",
+    "Bayesian analysis"
+  ],
+  "topic": "Structural Biology and Computational Protein Design",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, structural biologists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69255109edeecce4361e1cfe",
+  "source_url": "https://www.molbiosci.com/posts/molbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "protein-side-chain-rotamers-from-statistical-foundations-to-ai-driven-prediction-in-drug-discovery_20260331.pdf"
+}
