@@ -1,0 +1,28 @@
+{
+  "title": "A Practical Guide to Preparing Initial Structures for Reliable Molecular Dynamics Simulations",
+  "description": "A comprehensive guide on preparing robust initial 3D structures for molecular dynamics simulations, covering structure acquisition, protonation, force fields, solvation, energy minimization, and validation.",
+  "keywords": [
+    "Molecular Dynamics",
+    "Structure Preparation",
+    "Energy Minimization",
+    "Force Fields",
+    "Solvation Models",
+    "Protonation States",
+    "RMSD",
+    "RMSF",
+    "Active Learning"
+  ],
+  "topic": "Computational Chemistry and Structural Biology",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692567f8eef946afea98dad8",
+  "source_url": "https://www.moldynamicssci.com/posts/moldynamicssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "a-practical-guide-to-preparing-initial-structures-for-reliable-molecular-dynamics-simulations_20260331.pdf"
+}
