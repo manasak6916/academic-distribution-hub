@@ -1,0 +1,31 @@
+{
+  "title": "Ligand-Based vs. Structure-Based Drug Design: A Comprehensive Guide to Foundational Concepts and Modern Applications",
+  "description": "This article provides a comprehensive overview of the two foundational pillars of computer-aided drug design (CADD): ligand-based and structure-based approaches. Tailored for researchers, scientists, and drug development professionals, it explores the core principles, key methodologies, and practical applications of each paradigm. The scope ranges from foundational concepts and data requirements to advanced techniques for troubleshooting and optimization. A detailed comparative analysis highlights the strengths, limitations, and powerful synergies achieved by integrating both methods, with a forward-looking perspective on the impact of artificial intelligence, machine learning, and ultra-large library screening on the future of drug discovery.",
+  "keywords": [
+    "Structure-Based Drug Design",
+    "SBDD",
+    "Ligand-Based Drug Design",
+    "LBDD",
+    "Computer-Aided Drug Design",
+    "CADD",
+    "Molecular Docking",
+    "QSAR",
+    "Pharmacophore Modeling",
+    "Virtual Screening",
+    "Molecular Dynamics",
+    "Drug Discovery"
+  ],
+  "topic": "Computational Drug Design",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69255f8a9d9cf8a335d518c5",
+  "source_url": "https://www.cancerchem.com/posts/cancerchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "ligand-based-vs-structure-based-drug-design-a-comprehensive-guide-to-foundational-concepts-and-modern-applications_20260331.pdf"
+}
