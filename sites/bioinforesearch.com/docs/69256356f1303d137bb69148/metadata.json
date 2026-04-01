@@ -1,0 +1,29 @@
+{
+  "title": "Differential Expression Analysis: A Beginner's Guide from Foundations to Clinical Applications",
+  "description": "A comprehensive technical guide to differential expression analysis, covering bulk and single-cell RNA-seq methodologies, statistical tools, experimental design, and validation.",
+  "keywords": [
+    "differential expression",
+    "RNA-seq",
+    "transcriptomics",
+    "DESeq2",
+    "edgeR",
+    "limma",
+    "single-cell RNA-seq",
+    "pseudobulk",
+    "normalization",
+    "false discovery rate"
+  ],
+  "topic": "Bioinformatics and Transcriptomics",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "69256356f1303d137bb69148",
+  "source_url": "https://www.bioinforesearch.com/posts/bioinforesearch.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "differential-expression-analysis-a-beginner-s-guide-from-foundations-to-clinical-applications_20260331.pdf"
+}
