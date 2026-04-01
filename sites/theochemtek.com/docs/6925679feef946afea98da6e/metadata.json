@@ -1,0 +1,32 @@
+{
+  "title": "Ab Initio Quantum Chemistry: Methodologies, Applications, and Future Directions for Computational Drug Discovery",
+  "description": "This article provides a comprehensive overview of modern ab initio quantum chemistry, a computational approach that solves the electronic Schrödinger equation from first principles without empirical parameters. Aimed at researchers, scientists, and drug development professionals, it covers the foundational theories of electronic structure, including Hartree-Fock, post-Hartree-Fock methods, and Density Functional Theory. The scope extends to practical applications in drug design, materials science, and catalysis, while also addressing computational challenges, optimization strategies, and the critical validation of results against experimental data. Finally, it explores emerging trends such as the integration of machine learning and quantum computing, highlighting their potential to revolutionize computational modeling in biomedical research.",
+  "keywords": [
+    "ab initio quantum chemistry",
+    "electronic structure",
+    "Hartree-Fock",
+    "Density Functional Theory",
+    "DFT",
+    "electron correlation",
+    "coupled cluster",
+    "CCSD(T)",
+    "drug discovery",
+    "molecular dynamics",
+    "QM/MM",
+    "basis sets",
+    "computational scaling"
+  ],
+  "topic": "Computational Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "6925679feef946afea98da6e",
+  "source_url": "https://www.theochemtek.com/posts/theochemtek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "ab-initio-quantum-chemistry-methodologies-applications-and-future-directions-for-computational-drug-discovery_20260331.pdf"
+}
