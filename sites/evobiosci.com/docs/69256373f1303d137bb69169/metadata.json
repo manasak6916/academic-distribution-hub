@@ -1,0 +1,29 @@
+{
+  "title": "Decoding Evolutionary Novelty: From Genomic Origins to Clinical Applications",
+  "description": "A comprehensive review of the genetic and developmental mechanisms driving evolutionary novelty and their applications in prioritizing drug targets for clinical success.",
+  "keywords": [
+    "evolutionary novelty",
+    "evo-devo",
+    "gene co-option",
+    "constructive novelty",
+    "comparative genomics",
+    "drug development",
+    "genetic evidence",
+    "causal networks",
+    "Mendelian randomization",
+    "GWAS"
+  ],
+  "topic": "Evolutionary Biology and Biomedical Research",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256373f1303d137bb69169",
+  "source_url": "https://www.evobiosci.com/posts/evobiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-evolutionary-novelty-from-genomic-origins-to-clinical-applications_20260331.pdf"
+}
