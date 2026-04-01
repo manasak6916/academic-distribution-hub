@@ -1,0 +1,28 @@
+{
+  "title": "Surrogate and Global Optimization in Chemistry: Fundamentals, Methods, and Applications in Drug Discovery",
+  "description": "A comprehensive guide on surrogate-based and global optimization strategies, including Bayesian optimization and generative AI, for accelerating chemical research and drug discovery.",
+  "keywords": [
+    "surrogate models",
+    "global optimization",
+    "Bayesian optimization",
+    "drug discovery",
+    "computational chemistry",
+    "machine learning",
+    "virtual patients",
+    "active learning",
+    "generative AI"
+  ],
+  "topic": "Computational Chemistry and Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692550bfedeecce4361e1cea",
+  "source_url": "https://www.analchemsci.com/posts/analchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "surrogate-and-global-optimization-in-chemistry-fundamentals-methods-and-applications-in-drug-discovery_20260331.pdf"
+}
