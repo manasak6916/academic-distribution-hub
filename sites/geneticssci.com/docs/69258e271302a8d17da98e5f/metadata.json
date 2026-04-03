@@ -1,0 +1,29 @@
+{
+  "title": "Decoding the Unknown: A Research-Focused Guide to Interpreting Genetic Variants of Uncertain Significance",
+  "description": "A comprehensive resource for navigating the complex challenge of Variants of Uncertain Significance (VUS), detailing classification frameworks, advanced methodologies, and their impact on drug development.",
+  "keywords": [
+    "Variants of Uncertain Significance",
+    "VUS",
+    "clinical genomics",
+    "ACMG-AMP framework",
+    "Multiplexed Assays of Variant Effect",
+    "MAVEs",
+    "CRISPR-Cas9",
+    "precision medicine",
+    "drug development",
+    "Polygenic Risk Scores"
+  ],
+  "topic": "Clinical Genomics and Variant Interpretation",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69258e271302a8d17da98e5f",
+  "source_url": "https://www.geneticssci.com/posts/geneticssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-the-unknown-a-research-focused-guide-to-interpreting-genetic-variants-of-uncertain-significance_20260403.pdf"
+}
