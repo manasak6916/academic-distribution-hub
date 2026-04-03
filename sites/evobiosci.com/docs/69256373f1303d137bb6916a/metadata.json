@@ -1,0 +1,27 @@
+{
+  "title": "Gene Regulatory Networks in Evolutionary Development: From Deep Conservation to Clinical Translation",
+  "description": "A comprehensive synthesis of Gene Regulatory Networks (GRNs) in evolutionary developmental biology, detailing computational inference methods, dynamic modeling, and clinical translation via the FDA's Plausible Mechanism Pathway.",
+  "keywords": [
+    "Gene Regulatory Networks",
+    "evolutionary developmental biology",
+    "developmental system drift",
+    "epigenetic landscape",
+    "single-cell multi-omics",
+    "dynamic modeling",
+    "Plausible Mechanism Pathway",
+    "Gene2role"
+  ],
+  "topic": "Biology and Bioinformatics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256373f1303d137bb6916a",
+  "source_url": "https://www.evobiosci.com/posts/evobiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "gene-regulatory-networks-in-evolutionary-development-from-deep-conservation-to-clinical-translation_20260403.pdf"
+}
