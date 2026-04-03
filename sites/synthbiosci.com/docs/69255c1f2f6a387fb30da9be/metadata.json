@@ -1,0 +1,29 @@
+{
+  "title": "Systems vs Synthetic Biology: A Strategic Guide for Next-Generation Drug Discovery",
+  "description": "A comprehensive comparative analysis of systems biology and synthetic biology, exploring their methodologies, computational tools, and synergistic applications in drug discovery and biomanufacturing.",
+  "keywords": [
+    "systems biology",
+    "synthetic biology",
+    "multi-omics",
+    "computational modeling",
+    "DBTL cycle",
+    "genetic circuits",
+    "digital twins",
+    "biomanufacturing",
+    "drug discovery",
+    "artificial intelligence"
+  ],
+  "topic": "Biotechnology and Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69255c1f2f6a387fb30da9be",
+  "source_url": "https://www.synthbiosci.com/posts/synthbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "systems-vs-synthetic-biology-a-strategic-guide-for-next-generation-drug-discovery_20260403.pdf"
+}
