@@ -1,0 +1,27 @@
+{
+  "title": "Predicting Thermodynamic Stability of Inorganic Materials: Machine Learning, Generative AI, and Biomedical Applications",
+  "description": "A comprehensive overview of modern computational approaches, including machine learning and generative AI, for predicting and designing thermodynamically stable inorganic materials for technological and biomedical applications.",
+  "keywords": [
+    "Thermodynamic Stability",
+    "Inorganic Materials",
+    "Machine Learning",
+    "Generative AI",
+    "Density Functional Theory",
+    "Convex Hull",
+    "MatterGen",
+    "Biomedical Applications"
+  ],
+  "topic": "Materials Science and Computational Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692562fbf1303d137bb690dd",
+  "source_url": "https://www.inorgmatchem.com/posts/inorgmatchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "predicting-thermodynamic-stability-of-inorganic-materials-machine-learning-generative-ai-and-biomedical-applications_20260403.pdf"
+}
