@@ -1,0 +1,31 @@
+{
+  "title": "Organic Chemistry Principles and Modern Applications: A Foundational Guide for Drug Development and Research",
+  "description": "A comprehensive guide detailing the fundamental principles of organic chemistry and their advanced applications in pharmaceutical research, including automated synthesis, machine learning optimization, and analytical method validation.",
+  "keywords": [
+    "organic chemistry",
+    "drug development",
+    "carbon tetravalency",
+    "orbital hybridization",
+    "high-throughput experimentation",
+    "machine learning",
+    "reaction optimization",
+    "analytical method validation",
+    "spectrophotometry",
+    "chromatography",
+    "green analytical chemistry",
+    "ANOVA"
+  ],
+  "topic": "Organic Chemistry and Drug Development",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "69257008eef946afea98dd2b",
+  "source_url": "https://www.orgchemsci.com/posts/orgchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "organic-chemistry-principles-and-modern-applications-a-foundational-guide-for-drug-development-and-research_20260403.pdf"
+}
