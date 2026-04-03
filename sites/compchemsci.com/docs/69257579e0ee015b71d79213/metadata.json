@@ -1,0 +1,26 @@
+{
+  "title": "From Heitler-London to AI: The Revolutionary Evolution of Computational Chemistry",
+  "description": "A comprehensive review of the evolution of computational chemistry from its quantum mechanical origins to modern AI-driven methodologies, highlighting applications in drug discovery and materials science.",
+  "keywords": [
+    "computational chemistry",
+    "quantum mechanics",
+    "density functional theory",
+    "machine learning",
+    "drug discovery",
+    "molecular docking",
+    "neural network potentials"
+  ],
+  "topic": "Computational Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257579e0ee015b71d79213",
+  "source_url": "https://www.compchemsci.com/posts/compchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "from-heitler-london-to-ai-the-revolutionary-evolution-of-computational-chemistry_20260403.pdf"
+}
