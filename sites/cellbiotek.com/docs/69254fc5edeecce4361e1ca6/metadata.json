@@ -1,0 +1,30 @@
+{
+  "title": "Organoid Generation Methods: From Stem Cells to Standardized 3D Models for Biomedical Research",
+  "description": "This article provides a comprehensive overview of the current landscape of organoid generation, detailing the foundational principles, diverse methodological approaches, and key applications in disease modeling and drug development. It explores the significant challenges of standardization, vascularization, and functional maturation that researchers face. Furthermore, it outlines advanced engineering and bioinformatics strategies for troubleshooting and validation.",
+  "keywords": [
+    "organoid",
+    "stem cells",
+    "3D culture",
+    "disease modeling",
+    "drug development",
+    "vascularization",
+    "bioreactors",
+    "automation",
+    "biobanking",
+    "multi-omics",
+    "personalized medicine"
+  ],
+  "topic": "Organoid Technology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69254fc5edeecce4361e1ca6",
+  "source_url": "https://www.cellbiotek.com/posts/cellbiotek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "organoid-generation-methods-from-stem-cells-to-standardized-3d-models-for-biomedical-research_20260403.pdf"
+}
