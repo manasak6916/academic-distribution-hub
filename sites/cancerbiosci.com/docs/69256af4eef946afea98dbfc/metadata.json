@@ -1,0 +1,30 @@
+{
+  "title": "The Dynamic Tumor Microenvironment: Decoding Its Multifaceted Impact on Cancer Cell Behavior and Therapy",
+  "description": "This article provides a comprehensive overview of the latest research on the tumor microenvironment (TME) and its profound influence on cancer cell behavior, progression, and therapeutic response. Tailored for researchers and drug development professionals, it explores the foundational biology of the TME, cutting-edge analytical methods like spatial transcriptomics and intravital microscopy, and the challenges of therapeutic resistance. It further evaluates comparative models and validation strategies, synthesizing key insights to outline future directions for targeting the TME to overcome treatment barriers and improve patient outcomes.",
+  "keywords": [
+    "Tumor Microenvironment",
+    "TME",
+    "Cancer-Associated Fibroblasts",
+    "CAFs",
+    "Immune Evasion",
+    "Therapy Resistance",
+    "Spatial Transcriptomics",
+    "Single-Cell Sequencing",
+    "Cancer Stem Cells",
+    "Vascular Normalization",
+    "Immunotherapy"
+  ],
+  "topic": "Tumor Microenvironment",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256af4eef946afea98dbfc",
+  "source_url": "https://www.cancerbiosci.com/posts/cancerbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "the-dynamic-tumor-microenvironment-decoding-its-multifaceted-impact-on-cancer-cell-behavior-and-therapy_20260403.pdf"
+}
