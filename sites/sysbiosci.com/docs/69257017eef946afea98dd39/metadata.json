@@ -1,0 +1,27 @@
+{
+  "title": "Systems Biology in Biomedicine: Decoding Complex Diseases Through Network-Based Approaches",
+  "description": "A comprehensive overview of systems biology and network-based approaches for understanding complex diseases, integrating multi-omics, AI, and computational modeling.",
+  "keywords": [
+    "systems biology",
+    "network medicine",
+    "multi-omics integration",
+    "biomarker discovery",
+    "artificial intelligence",
+    "complex diseases",
+    "drug repositioning",
+    "dynamical network biomarkers"
+  ],
+  "topic": "Systems Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257017eef946afea98dd39",
+  "source_url": "https://www.sysbiosci.com/posts/sysbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "systems-biology-in-biomedicine-decoding-complex-diseases-through-network-based-approaches_20260403.pdf"
+}
