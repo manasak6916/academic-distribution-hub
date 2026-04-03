@@ -1,0 +1,28 @@
+{
+  "title": "How to Interpret a Gene Expression Heatmap: A Comprehensive Guide for Biomedical Researchers",
+  "description": "A comprehensive guide for biomedical researchers on interpreting gene expression heatmaps, covering foundational principles, clustering methodologies, statistical validation, and emerging AI prediction models.",
+  "keywords": [
+    "gene expression",
+    "heatmap",
+    "hierarchical clustering",
+    "transcriptomics",
+    "Log2FC",
+    "Z-score",
+    "spatial transcriptomics",
+    "RNA-seq",
+    "artificial intelligence"
+  ],
+  "topic": "Genomics and Bioinformatics",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Biomedical researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256357f1303d137bb69149",
+  "source_url": "https://www.bioinforesearch.com/posts/bioinforesearch.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "how-to-interpret-a-gene-expression-heatmap-a-comprehensive-guide-for-biomedical-researchers_20260403.pdf"
+}
