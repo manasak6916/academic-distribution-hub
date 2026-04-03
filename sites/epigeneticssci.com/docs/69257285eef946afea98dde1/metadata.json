@@ -1,0 +1,29 @@
+{
+  "title": "Epigenetic Regulatory Networks: Master Controllers of Cellular State in Health and Disease",
+  "description": "A comprehensive exploration of the Epigenetic Regulatory Network, detailing its core mechanisms, robustness, experimental methodologies, and therapeutic targeting in disease.",
+  "keywords": [
+    "Epigenetic Regulatory Network",
+    "DNA methylation",
+    "histone modifications",
+    "chromatin remodeling",
+    "CRISPR-dCas9",
+    "multi-omics",
+    "epigenetic therapy",
+    "cancer",
+    "robustness",
+    "precision medicine"
+  ],
+  "topic": "Epigenetics and Precision Medicine",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257285eef946afea98dde1",
+  "source_url": "https://www.epigeneticssci.com/posts/epigeneticssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "epigenetic-regulatory-networks-master-controllers-of-cellular-state-in-health-and-disease_20260403.pdf"
+}
