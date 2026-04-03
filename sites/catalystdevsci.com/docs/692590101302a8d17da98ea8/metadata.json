@@ -1,0 +1,31 @@
+{
+  "title": "The d-Band Center Theory in Heterogeneous Catalysis: A Comprehensive Guide for Catalyst Design",
+  "description": "This article provides a comprehensive exploration of the d-band center theory, a foundational electronic descriptor in heterogeneous catalysis, detailing its principles, applications in catalyst design, computational and experimental methodologies, limitations, and integration with machine learning.",
+  "keywords": [
+    "d-band center theory",
+    "heterogeneous catalysis",
+    "catalyst design",
+    "electronic descriptor",
+    "Density Functional Theory (DFT)",
+    "adsorption energy",
+    "Sabatier principle",
+    "machine learning",
+    "water electrolysis",
+    "hydroformylation",
+    "spin polarization",
+    "single-atom catalysts"
+  ],
+  "topic": "Heterogeneous Catalysis",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and scientists",
+  "quality_score": 95,
+  "confidence": 1.0,
+  "doc_id": "692590101302a8d17da98ea8",
+  "source_url": "https://www.catalystdevsci.com/posts/catalystdevsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "the-d-band-center-theory-in-heterogeneous-catalysis-a-comprehensive-guide-for-catalyst-design_20260403.pdf"
+}
