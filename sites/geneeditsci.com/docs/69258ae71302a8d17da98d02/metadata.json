@@ -1,0 +1,29 @@
+{
+  "title": "Protospacer Adjacent Motif (PAM): A Comprehensive Guide for CRISPR Researchers and Therapists",
+  "description": "A definitive guide to the Protospacer Adjacent Motif (PAM) in CRISPR-Cas systems, covering its biological function, diversity, experimental identification methods, and engineered Cas variants for therapeutic genome editing.",
+  "keywords": [
+    "CRISPR-Cas",
+    "Protospacer Adjacent Motif",
+    "PAM",
+    "Cas9",
+    "Cas12a",
+    "Genome Editing",
+    "PAM-readID",
+    "Off-target effects",
+    "Allele-specific editing",
+    "Prime editing"
+  ],
+  "topic": "CRISPR Genome Editing",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "CRISPR researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "69258ae71302a8d17da98d02",
+  "source_url": "https://www.geneeditsci.com/posts/geneeditsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "protospacer-adjacent-motif-pam-a-comprehensive-guide-for-crispr-researchers-and-therapists_20260403.pdf"
+}
