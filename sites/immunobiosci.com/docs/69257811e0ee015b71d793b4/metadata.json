@@ -1,0 +1,31 @@
+{
+  "title": "Decoding Human CD8+ T Cell Heterogeneity: A Comprehensive Guide to Single-Cell RNA Sequencing Atlases and Their Applications in Biomedical Research",
+  "description": "A comprehensive resource on CD8+ T cell biology, detailing the use of single-cell RNA sequencing (scRNA-seq) to build cellular atlases. It covers foundational T cell subsets, computational methods for atlas construction and data projection, strategies for overcoming annotation and batch effect challenges, and the validation and application of these findings in biomedical research to advance biomarker discovery and immunotherapy.",
+  "keywords": [
+    "CD8+ T cells",
+    "single-cell RNA sequencing",
+    "scRNA-seq",
+    "T cell atlas",
+    "computational immunology",
+    "T cell exhaustion",
+    "cell annotation",
+    "batch effect correction",
+    "scAtlasVAE",
+    "ProjecTILs",
+    "immunotherapy",
+    "prognostic signature"
+  ],
+  "topic": "Computational Immunology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "69257811e0ee015b71d793b4",
+  "source_url": "https://www.immunobiosci.com/posts/immunobiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-human-cd8-t-cell-heterogeneity-a-comprehensive-guide-to-single-cell-rna-sequencing-atlases-and-their-applications-in-biomedical-research_20260403.pdf"
+}
