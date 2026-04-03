@@ -1,0 +1,31 @@
+{
+  "title": "Ab Initio Quantum Chemistry for Electron Correlation: From Theoretical Foundations to Drug Discovery Applications",
+  "description": "A comprehensive overview of ab initio quantum chemistry methodologies for treating electron correlation. This article explores the foundational theories, details key computational methods from post-Hartree-Fock to modern quantum-inspired techniques, and addresses practical challenges in implementation. The discussion extends to validation strategies and comparative analysis, with a specific focus on applications in pharmaceutical research, including drug-target interactions, solvation effects, and reaction profiling.",
+  "keywords": [
+    "electron correlation",
+    "ab initio",
+    "quantum chemistry",
+    "Hartree-Fock",
+    "Coupled Cluster",
+    "Møller-Plesset Perturbation Theory",
+    "Density Functional Theory",
+    "CASSCF",
+    "QM/MM",
+    "drug discovery",
+    "basis sets",
+    "computational scaling"
+  ],
+  "topic": "Quantum Chemistry",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "69257b55e0ee015b71d794f8",
+  "source_url": "https://www.theochemsci.com/posts/theochemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "ab-initio-quantum-chemistry-for-electron-correlation-from-theoretical-foundations-to-drug-discovery-applications_20260403.pdf"
+}
