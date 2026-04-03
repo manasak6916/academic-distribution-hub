@@ -1,0 +1,29 @@
+{
+  "title": "Harnessing Bioinformatics for Novel Anticancer Target Discovery: A Guide for Researchers and Drug Developers",
+  "description": "A comprehensive overview of leveraging bioinformatics, multi-omics data, and computational methodologies like AI and molecular docking to discover and validate novel anticancer drug targets.",
+  "keywords": [
+    "Bioinformatics",
+    "Anticancer",
+    "Drug Discovery",
+    "Multi-omics",
+    "Target Discovery",
+    "TCGA",
+    "COSMIC",
+    "Artificial Intelligence",
+    "Molecular Docking",
+    "Network Biology"
+  ],
+  "topic": "Bioinformatics and Computational Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and Drug Developers",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69255f8d9d9cf8a335d518ca",
+  "source_url": "https://www.cancerchem.com/posts/cancerchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "harnessing-bioinformatics-for-novel-anticancer-target-discovery-a-guide-for-researchers-and-drug-developers_20260403.pdf"
+}
