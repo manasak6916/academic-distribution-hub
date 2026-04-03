@@ -1,0 +1,27 @@
+{
+  "title": "Untargeted Metabolomics: A Comprehensive Guide to Global Metabolic Profiling in Disease Research and Drug Discovery",
+  "description": "A comprehensive guide on untargeted metabolomics detailing foundational principles, experimental workflows, analytical platforms like LC-MS, and the integration of AI and bioinformatics for biomarker discovery and precision medicine.",
+  "keywords": [
+    "Untargeted metabolomics",
+    "Metabolic profiling",
+    "Biomarker discovery",
+    "Drug discovery",
+    "Liquid Chromatography-Mass Spectrometry",
+    "Bioinformatics",
+    "Precision medicine",
+    "Artificial intelligence"
+  ],
+  "topic": "Untargeted Metabolomics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "6925749beef946afea98de18",
+  "source_url": "https://www.metabolismstudy.com/posts/metabolismstudy.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "untargeted-metabolomics-a-comprehensive-guide-to-global-metabolic-profiling-in-disease-research-and-drug-discovery_20260403.pdf"
+}
