@@ -1,0 +1,29 @@
+{
+  "title": "Ubiquitin Code: Decoding the Molecular Nexus of DNA Repair and Immune Signaling in Disease and Therapy",
+  "description": "This article synthesizes current research on ubiquitination, an essential post-translational modification that acts as a central regulatory node connecting DNA damage repair with immune response pathways. We explore the foundational mechanisms by which diverse ubiquitin chain topologies—including K48-linked proteolysis, K63-linked signaling scaffolds, and linear ubiquitination—orchestrate cellular homeostasis, from maintaining genomic integrity to directing innate and adaptive immunity. For researchers and drug development professionals, this review further examines cutting-edge methodological approaches for investigating ubiquitin networks, discusses challenges in therapeutic targeting of ubiquitin system enzymes, and validates key targets through comparative analysis of preclinical and clinical data. The integration of these insights highlights the immense potential of targeting the ubiquitin system to develop novel treatments for cancer, inflammatory diseases, and immune disorders.",
+  "keywords": [
+    "ubiquitination",
+    "DNA repair",
+    "immune signaling",
+    "E3 ligase",
+    "deubiquitinase",
+    "DUB",
+    "PROTACs",
+    "proteasome",
+    "cancer therapy",
+    "cytokine storm"
+  ],
+  "topic": "Molecular Biology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a2deef946afea98db1a",
+  "source_url": "https://www.ubiquitinres.com/posts/ubiquitinres.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "ubiquitin-code-decoding-the-molecular-nexus-of-dna-repair-and-immune-signaling-in-disease-and-therapy_20260403.pdf"
+}
