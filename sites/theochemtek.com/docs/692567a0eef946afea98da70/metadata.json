@@ -1,0 +1,28 @@
+{
+  "title": "Capturing Motion: How Molecular Dynamics Simulations Reveal Conformational Changes in Drug Discovery",
+  "description": "A comprehensive overview of molecular dynamics simulations, exploring theoretical foundations, enhanced sampling methods, AI integration, and experimental validation for drug discovery.",
+  "keywords": [
+    "Molecular Dynamics",
+    "Conformational Changes",
+    "Drug Discovery",
+    "Force Fields",
+    "Enhanced Sampling",
+    "Artificial Intelligence",
+    "Cryo-EM",
+    "NMR",
+    "Intrinsically Disordered Proteins"
+  ],
+  "topic": "Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692567a0eef946afea98da70",
+  "source_url": "https://www.theochemtek.com/posts/theochemtek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "capturing-motion-how-molecular-dynamics-simulations-reveal-conformational-changes-in-drug-discovery_20260403.pdf"
+}
