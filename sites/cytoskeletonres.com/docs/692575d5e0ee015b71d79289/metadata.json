@@ -1,0 +1,28 @@
+{
+  "title": "The Eukaryotic Cytoskeleton: Structure, Dynamics, and Emerging Therapeutic Targets",
+  "description": "A comprehensive analysis of the eukaryotic cytoskeleton, exploring its structural mechanics, dynamic functions, experimental methodologies, and emerging therapeutic targets in diseases like cancer and neurodegeneration.",
+  "keywords": [
+    "Cytoskeleton",
+    "Microtubules",
+    "Actin Filaments",
+    "Intermediate Filaments",
+    "Mechanotransduction",
+    "Cancer Therapeutics",
+    "DNA Damage Response",
+    "Live-Cell Imaging",
+    "Deep Learning"
+  ],
+  "topic": "Cell Biology and Therapeutics",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "692575d5e0ee015b71d79289",
+  "source_url": "https://www.cytoskeletonres.com/posts/cytoskeletonres.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "the-eukaryotic-cytoskeleton-structure-dynamics-and-emerging-therapeutic-targets_20260403.pdf"
+}
