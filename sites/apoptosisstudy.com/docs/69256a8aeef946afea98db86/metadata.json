@@ -1,0 +1,30 @@
+{
+  "title": "Bcl-2 and Bcl-xL: Masters of Cell Survival from Apoptosis Mechanisms to Targeted Cancer Therapy",
+  "description": "A comprehensive analysis of the Bcl-2 protein family, focusing on the roles of Bcl-2 and Bcl-xL as key regulators of the intrinsic apoptosis pathway. The article explores their foundational biology, the development and application of BH3-mimetic therapeutics like venetoclax, and challenges such as treatment resistance and toxicity. It also covers novel therapeutic strategies like PROTACs and ADCs.",
+  "keywords": [
+    "Bcl-2",
+    "Bcl-xL",
+    "Apoptosis",
+    "BH3-mimetics",
+    "Venetoclax",
+    "Cancer Therapy",
+    "Intrinsic Pathway",
+    "MOMP",
+    "Drug Resistance",
+    "PROTACs",
+    "Thrombocytopenia"
+  ],
+  "topic": "Cancer Biology and Targeted Therapy",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a8aeef946afea98db86",
+  "source_url": "https://www.apoptosisstudy.com/posts/apoptosisstudy.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "bcl-2-and-bcl-xl-masters-of-cell-survival-from-apoptosis-mechanisms-to-targeted-cancer-therapy_20260403.pdf"
+}
