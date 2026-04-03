@@ -1,0 +1,29 @@
+{
+  "title": "E. coli Bacterial Transformation: A Complete Guide from Foundational Principles to Advanced Optimization for Researchers",
+  "description": "This comprehensive guide details the E. coli bacterial transformation process, a cornerstone technique in molecular biology and drug development. It provides foundational knowledge on how bacteria uptake foreign DNA, compares established methodological protocols including heat shock and electroporation, and offers in-depth troubleshooting and optimization strategies to maximize transformation efficiency.",
+  "keywords": [
+    "E. coli",
+    "Bacterial Transformation",
+    "Heat Shock",
+    "Electroporation",
+    "Plasmid",
+    "Competent Cells",
+    "Transformation Efficiency",
+    "Molecular Biology",
+    "Cloning",
+    "SOC Media"
+  ],
+  "topic": "Molecular Biology",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and scientists",
+  "quality_score": 95,
+  "confidence": 1.0,
+  "doc_id": "69256a14eef946afea98daff",
+  "source_url": "https://www.microbiosci.com/posts/microbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "e-coli-bacterial-transformation-a-complete-guide-from-foundational-principles-to-advanced-optimization-for-researchers_20260403.pdf"
+}
