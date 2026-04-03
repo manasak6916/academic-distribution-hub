@@ -1,0 +1,29 @@
+{
+  "title": "Decoding the Redox Code: Principles of Cellular Organization and Their Therapeutic Implications",
+  "description": "This article explores the Redox Code, a set of principles defining the spatiotemporal organization of biological redox systems. It synthesizes foundational concepts, cutting-edge methodologies like redox proteomics, and computational models. The content examines how redox principles govern cellular metabolism, structure, and adaptation, and how their disruption contributes to diseases such as cancer and neurodegeneration. It also addresses challenges in therapeutic targeting of redox pathways and evaluates emerging strategies to restore redox homeostasis for precision medicine.",
+  "keywords": [
+    "Redox Code",
+    "Redox Signaling",
+    "Oxidative Stress",
+    "Thiol Switch",
+    "Cysteine Oxidation",
+    "NAD/NADP",
+    "Redox Proteomics",
+    "NRF2",
+    "H2O2 Signaling",
+    "Redox Homeodynamics"
+  ],
+  "topic": "Redox Biology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257d0de0ee015b71d7956b",
+  "source_url": "https://www.redoxbiosci.com/posts/redoxbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-the-redox-code-principles-of-cellular-organization-and-their-therapeutic-implications_20260403.pdf"
+}
