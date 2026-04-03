@@ -1,0 +1,29 @@
+{
+  "title": "Foundation Models in Bioinformatics: A New Era of AI-Driven Biological Discovery",
+  "description": "A comprehensive review of foundation models (FMs) in bioinformatics, detailing their application across genomics, proteomics, drug discovery, and single-cell analysis. The article explores core architectures, methodological applications, persistent challenges in data and interpretability, and the importance of rigorous benchmarking.",
+  "keywords": [
+    "Foundation Models",
+    "Bioinformatics",
+    "Artificial Intelligence",
+    "Genomics",
+    "Proteomics",
+    "Drug Discovery",
+    "Single-Cell Analysis",
+    "Transformer Architecture",
+    "Self-Supervised Learning",
+    "Benchmarking"
+  ],
+  "topic": "AI in Bioinformatics",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69258e4b1302a8d17da98e86",
+  "source_url": "https://www.compbiosci.com/posts/compbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "foundation-models-in-bioinformatics-a-new-era-of-ai-driven-biological-discovery_20260403.pdf"
+}
