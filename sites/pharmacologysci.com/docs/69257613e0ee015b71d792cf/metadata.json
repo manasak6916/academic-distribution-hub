@@ -1,0 +1,27 @@
+{
+  "title": "Pharmacokinetics vs Pharmacodynamics: A Comprehensive Guide for Drug Development Researchers",
+  "description": "A comprehensive guide exploring the fundamental principles, integration, and applications of pharmacokinetics and pharmacodynamics in drug development.",
+  "keywords": [
+    "Pharmacokinetics",
+    "Pharmacodynamics",
+    "ADME",
+    "PK/PD Modeling",
+    "Drug Development",
+    "Drug-Drug Interactions",
+    "Model-Informed Drug Development",
+    "Biomarkers"
+  ],
+  "topic": "Pharmacology and Drug Development",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and scientists in drug development",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257613e0ee015b71d792cf",
+  "source_url": "https://www.pharmacologysci.com/posts/pharmacologysci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "pharmacokinetics-vs-pharmacodynamics-a-comprehensive-guide-for-drug-development-researchers_20260403.pdf"
+}
