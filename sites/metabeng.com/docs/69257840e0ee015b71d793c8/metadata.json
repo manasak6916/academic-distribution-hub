@@ -1,0 +1,27 @@
+{
+  "title": "Advanced Metabolic Engineering Strategies for Developing Microbial Cell Factories",
+  "description": "A comprehensive overview of contemporary metabolic engineering strategies, host selection frameworks, and advanced computational tools for developing efficient microbial cell factories.",
+  "keywords": [
+    "Microbial Cell Factories",
+    "Metabolic Engineering",
+    "Synthetic Biology",
+    "CRISPR-Cas9",
+    "Genome-Scale Metabolic Models",
+    "Biosensors",
+    "Machine Learning",
+    "DBTL Cycle"
+  ],
+  "topic": "Industrial Biotechnology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and scientists in drug development and industrial biotechnology",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257840e0ee015b71d793c8",
+  "source_url": "https://www.metabeng.com/posts/metabeng.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "advanced-metabolic-engineering-strategies-for-developing-microbial-cell-factories_20260403.pdf"
+}
