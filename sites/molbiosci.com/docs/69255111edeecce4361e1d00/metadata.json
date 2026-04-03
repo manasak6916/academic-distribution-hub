@@ -1,0 +1,29 @@
+{
+  "title": "Non-Coding RNAs in Hepatocellular Carcinoma: Molecular Classification, Clinical Applications, and Future Therapeutics",
+  "description": "A comprehensive review on the role of non-coding RNAs (ncRNAs) such as miRNAs, lncRNAs, and circRNAs in the molecular classification of Hepatocellular Carcinoma (HCC). The article analyzes how ncRNAs function as regulatory molecules and biomarkers, their integration with machine learning for diagnostic and prognostic models, and the challenges in clinical translation, targeting researchers, scientists, and drug development professionals.",
+  "keywords": [
+    "Hepatocellular Carcinoma",
+    "Non-coding RNA",
+    "miRNA",
+    "lncRNA",
+    "circRNA",
+    "Molecular Classification",
+    "Biomarkers",
+    "Liquid Biopsy",
+    "Machine Learning",
+    "Therapeutics"
+  ],
+  "topic": "Hepatocellular Carcinoma",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69255111edeecce4361e1d00",
+  "source_url": "https://www.molbiosci.com/posts/molbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "non-coding-rnas-in-hepatocellular-carcinoma-molecular-classification-clinical-applications-and-future-therapeutics_20260403.pdf"
+}
