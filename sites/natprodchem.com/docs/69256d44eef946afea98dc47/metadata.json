@@ -1,0 +1,29 @@
+{
+  "title": "Navigating the Chemical Universe of Natural Products: From Structural Diversity to Drug Discovery Applications",
+  "description": "This comprehensive review explores the vast chemical space and structural diversity of natural products (NPs) and their critical importance in modern drug discovery. It examines the foundational concepts defining NP chemical space, highlighting how NPs occupy unique regions not explored by synthetic compounds while largely adhering to drug-like properties. The article details cutting-edge methodological approaches for analyzing and navigating this chemical space, including cheminformatics tools, database resources like COCONUT and NPAtlas, and computational screening techniques.",
+  "keywords": [
+    "Natural Products",
+    "Chemical Space",
+    "Drug Discovery",
+    "Structural Diversity",
+    "Cheminformatics",
+    "BioReCS",
+    "Diversity-Oriented Synthesis",
+    "Virtual Screening",
+    "ADME/Tox",
+    "Scaffold Hopping"
+  ],
+  "topic": "Natural Products in Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256d44eef946afea98dc47",
+  "source_url": "https://www.natprodchem.com/posts/natprodchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "navigating-the-chemical-universe-of-natural-products-from-structural-diversity-to-drug-discovery-applications_20260403.pdf"
+}
