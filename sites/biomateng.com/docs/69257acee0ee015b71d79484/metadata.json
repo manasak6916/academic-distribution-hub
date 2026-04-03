@@ -1,0 +1,27 @@
+{
+  "title": "Biocompatibility Requirements for Medical Implants: A Comprehensive Guide for Researchers and Developers",
+  "description": "A comprehensive analysis of biocompatibility requirements, material-tissue interactions, ISO 10993 standards, and biomaterial optimization for medical implants.",
+  "keywords": [
+    "Biocompatibility",
+    "Medical Implants",
+    "ISO 10993",
+    "Biomaterials",
+    "Cytotoxicity",
+    "Osseointegration",
+    "Surface Modification",
+    "Risk Management"
+  ],
+  "topic": "Medical Device Biocompatibility",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257acee0ee015b71d79484",
+  "source_url": "https://www.biomateng.com/posts/biomateng.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "biocompatibility-requirements-for-medical-implants-a-comprehensive-guide-for-researchers-and-developers_20260403.pdf"
+}
