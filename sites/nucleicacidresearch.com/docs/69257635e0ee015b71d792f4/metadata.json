@@ -1,0 +1,30 @@
+{
+  "title": "Non-Coding RNAs: From Junk DNA to Master Regulators in Gene Expression and Therapeutic Targets",
+  "description": "A comprehensive exploration of non-coding RNAs (ncRNAs) for researchers and drug development professionals, covering the foundational biology of diverse ncRNA classes—including miRNAs, lncRNAs, and circRNAs—and their mechanisms in gene regulation. It delves into methodologies for ncRNA discovery and functional analysis, examines challenges in developing ncRNA-based therapeutics, and evaluates their validation as biomarkers and clinical candidates.",
+  "keywords": [
+    "non-coding RNA",
+    "ncRNA",
+    "microRNA",
+    "miRNA",
+    "long non-coding RNA",
+    "lncRNA",
+    "circular RNA",
+    "circRNA",
+    "gene regulation",
+    "therapeutics",
+    "biomarkers"
+  ],
+  "topic": "Non-coding RNA Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": "User-provided markdown article",
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "69257635e0ee015b71d792f4",
+  "source_url": "https://www.nucleicacidresearch.com/posts/nucleicacidresearch.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "non-coding-rnas-from-junk-dna-to-master-regulators-in-gene-expression-and-therapeutic-targets_20260403.pdf"
+}
