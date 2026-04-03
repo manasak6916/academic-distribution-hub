@@ -1,0 +1,27 @@
+{
+  "title": "Chemogenomic Compound Libraries: Principles, Applications, and Future Directions in Drug Discovery",
+  "description": "A comprehensive overview of chemogenomic compound libraries, detailing their design, assembly, and critical applications in phenotypic screening and drug discovery.",
+  "keywords": [
+    "chemogenomics",
+    "compound libraries",
+    "phenotypic screening",
+    "target deconvolution",
+    "drug discovery",
+    "chemical probes",
+    "network pharmacology",
+    "machine learning"
+  ],
+  "topic": "Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "692563dbf1303d137bb691e0",
+  "source_url": "https://www.chemgenomics.com/posts/chemgenomics.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "chemogenomic-compound-libraries-principles-applications-and-future-directions-in-drug-discovery_20260403.pdf"
+}
