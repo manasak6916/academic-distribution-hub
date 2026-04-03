@@ -1,0 +1,30 @@
+{
+  "title": "Microbial Community Composition and Structure Analysis: From Foundational Concepts to Advanced Applications in Biomedical Research",
+  "description": "A comprehensive review of microbial community analysis for researchers and drug development professionals, covering foundational principles, molecular techniques like 16S rRNA sequencing and shotgun metagenomics, advanced computational modeling with GNNs and LSTMs, and practical guidance for robust experimental design and data interpretation in biomedical applications.",
+  "keywords": [
+    "microbial community analysis",
+    "microbiome",
+    "16S rRNA sequencing",
+    "shotgun metagenomics",
+    "bioinformatics",
+    "compositional data",
+    "Graph Neural Network (GNN)",
+    "Long Short-Term Memory (LSTM)",
+    "low-biomass",
+    "biomarker validation",
+    "statistical modeling"
+  ],
+  "topic": "Microbial Ecology and Bioinformatics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69258b3f1302a8d17da98d48",
+  "source_url": "https://www.microecosci.com/posts/microecosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "microbial-community-composition-and-structure-analysis-from-foundational-concepts-to-advanced-applications-in-biomedical-research_20260403.pdf"
+}
