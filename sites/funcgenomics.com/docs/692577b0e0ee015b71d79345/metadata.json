@@ -1,0 +1,28 @@
+{
+  "title": "Functional Genomics: From Foundational Concepts to Advanced Applications in Biomedical Research",
+  "description": "A comprehensive overview of functional genomics, exploring core methodologies like NGS and CRISPR, data analysis frameworks, and applications in drug discovery and biomedical research.",
+  "keywords": [
+    "Functional genomics",
+    "CRISPR",
+    "Next-generation sequencing",
+    "Multi-omics",
+    "Drug discovery",
+    "Bioinformatics",
+    "Biomarker discovery",
+    "Proteomics",
+    "Metabolomics"
+  ],
+  "topic": "Functional Genomics and Biomedical Research",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "692577b0e0ee015b71d79345",
+  "source_url": "https://www.funcgenomics.com/posts/funcgenomics.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "functional-genomics-from-foundational-concepts-to-advanced-applications-in-biomedical-research_20260403.pdf"
+}
