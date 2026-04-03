@@ -1,0 +1,30 @@
+{
+  "title": "Molecular Recognition in Biosensors: Foundations, Applications, and Future Frontiers in Biomedicine",
+  "description": "This article provides a comprehensive exploration of molecular recognition, the foundational principle governing the specificity and sensitivity of biosensors. It systematically covers core concepts of biological recognition elements (BREs), advanced methodological approaches for bioreceptor immobilization and signal transduction leveraging nanomaterials and machine learning, and critical troubleshooting of real-world operational challenges. By synthesizing foundational knowledge with cutting-edge innovations, this review serves as a strategic guide for the development of next-generation biosensors for precision medicine, biomanufacturing, and clinical diagnostics.",
+  "keywords": [
+    "molecular recognition",
+    "biosensors",
+    "biological recognition elements",
+    "aptamers",
+    "transduction",
+    "nanomaterials",
+    "signal amplification",
+    "surface plasmon resonance",
+    "biofouling",
+    "immobilization",
+    "electrochemistry"
+  ],
+  "topic": "Biosensor Technology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692562cef1303d137bb690ac",
+  "source_url": "https://www.biosensorsci.com/posts/biosensorsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "molecular-recognition-in-biosensors-foundations-applications-and-future-frontiers-in-biomedicine_20260403.pdf"
+}
