@@ -1,0 +1,27 @@
+{
+  "title": "Molecular Dynamics in Protein Structure Prediction: From Folding Simulations to Integrative Structural Biology",
+  "description": "A comprehensive review of molecular dynamics simulations in protein structure prediction, detailing force fields, enhanced sampling, integration with AI models like AlphaFold, and experimental validation.",
+  "keywords": [
+    "Molecular Dynamics",
+    "Protein Structure Prediction",
+    "AlphaFold",
+    "Force Fields",
+    "Enhanced Sampling",
+    "Structure Refinement",
+    "Deep Learning",
+    "Cryo-EM"
+  ],
+  "topic": "Computational Structural Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692569f3eef946afea98dada",
+  "source_url": "https://www.moldynamicssci.com/posts/moldynamicssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "molecular-dynamics-in-protein-structure-prediction-from-folding-simulations-to-integrative-structural-biology_20260403.pdf"
+}
