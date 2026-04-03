@@ -1,0 +1,30 @@
+{
+  "title": "Sonic Hedgehog in Neural Tube Patterning: From Morphogen Gradient to Therapeutic Target",
+  "description": "A comprehensive review of the Sonic Hedgehog (SHH) signaling pathway's role as a master regulator of neural tube patterning. The article covers the foundational mechanisms of SHH as a morphogen, its interpretation by progenitor cells, experimental methodologies, and its dysregulation in disease contexts such as neural tube defects and cancer, making it a key therapeutic target.",
+  "keywords": [
+    "Sonic Hedgehog",
+    "SHH",
+    "neural tube patterning",
+    "morphogen",
+    "Smoothened",
+    "Patched",
+    "GLI transcription factors",
+    "exosomes",
+    "medulloblastoma",
+    "basal cell carcinoma",
+    "regenerative medicine"
+  ],
+  "topic": "Developmental Biology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69255f3d9d9cf8a335d51870",
+  "source_url": "https://www.devbiosci.com/posts/devbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "sonic-hedgehog-in-neural-tube-patterning-from-morphogen-gradient-to-therapeutic-target_20260403.pdf"
+}
