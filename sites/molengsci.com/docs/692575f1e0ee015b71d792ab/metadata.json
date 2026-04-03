@@ -1,0 +1,29 @@
+{
+  "title": "Molecular Engineering Thermodynamics: Fundamentals for Drug Design and Biomedical Innovation",
+  "description": "A comprehensive guide on applying molecular engineering thermodynamics, experimental biophysics, and computational modeling to optimize drug design and biomedical innovation.",
+  "keywords": [
+    "molecular engineering",
+    "thermodynamics",
+    "drug design",
+    "Gibbs free energy",
+    "enthalpy",
+    "entropy",
+    "isothermal titration calorimetry",
+    "molecular dynamics",
+    "statistical mechanics",
+    "binding affinity"
+  ],
+  "topic": "Molecular Engineering and Pharmacology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692575f1e0ee015b71d792ab",
+  "source_url": "https://www.molengsci.com/posts/molengsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "molecular-engineering-thermodynamics-fundamentals-for-drug-design-and-biomedical-innovation_20260403.pdf"
+}
