@@ -1,0 +1,27 @@
+{
+  "title": "Bioelectronic Medicine: The Emerging Frontier in Targeted Neuromodulation Therapies",
+  "description": "A comprehensive overview of bioelectronic medicine, exploring its historical evolution, mechanisms of neural circuit modulation, materials science innovations, closed-loop AI integration, and clinical applications.",
+  "keywords": [
+    "bioelectronic medicine",
+    "neuromodulation",
+    "vagus nerve stimulation",
+    "neural circuits",
+    "closed-loop systems",
+    "hydrogel semiconductors",
+    "foreign body reaction",
+    "artificial intelligence"
+  ],
+  "topic": "Bioelectronic Medicine",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "69257cd0e0ee015b71d7951e",
+  "source_url": "https://www.bioelectrosci.com/posts/bioelectrosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "bioelectronic-medicine-the-emerging-frontier-in-targeted-neuromodulation-therapies_20260403.pdf"
+}
