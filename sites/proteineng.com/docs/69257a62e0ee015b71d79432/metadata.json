@@ -1,0 +1,27 @@
+{
+  "title": "Geometric Deep Learning for Protein Structures: A New Paradigm in Drug Discovery and Protein Design",
+  "description": "A comprehensive exploration of geometric deep learning (GDL) and its transformative impact on computational biology, specifically for analyzing and designing protein structures.",
+  "keywords": [
+    "Geometric Deep Learning",
+    "Protein Structures",
+    "Drug Discovery",
+    "Protein Design",
+    "Graph Neural Networks",
+    "Equivariance",
+    "Molecular Docking",
+    "De Novo Design"
+  ],
+  "topic": "Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257a62e0ee015b71d79432",
+  "source_url": "https://www.proteineng.com/posts/proteineng.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "geometric-deep-learning-for-protein-structures-a-new-paradigm-in-drug-discovery-and-protein-design_20260403.pdf"
+}
