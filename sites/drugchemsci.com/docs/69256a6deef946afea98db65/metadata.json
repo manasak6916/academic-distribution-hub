@@ -1,0 +1,29 @@
+{
+  "title": "Principles of Rational Drug Design: A Modern Framework for Targeted Therapeutics",
+  "description": "A comprehensive overview of the principles, computational methodologies, experimental validation, and clinical applications of Rational Drug Design (RDD).",
+  "keywords": [
+    "Rational Drug Design",
+    "Structure-Based Drug Design",
+    "Ligand-Based Drug Design",
+    "Virtual Screening",
+    "Molecular Docking",
+    "Lead Optimization",
+    "ADMET",
+    "Artificial Intelligence",
+    "Pharmacokinetics",
+    "Pharmacodynamics"
+  ],
+  "topic": "Pharmaceutical Sciences and Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a6deef946afea98db65",
+  "source_url": "https://www.drugchemsci.com/posts/drugchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "principles-of-rational-drug-design-a-modern-framework-for-targeted-therapeutics_20260403.pdf"
+}
