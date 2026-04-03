@@ -1,0 +1,30 @@
+{
+  "title": "Quantum Subspace Expansion: Revolutionizing Molecular Energy Calculations for Drug Discovery",
+  "description": "A comprehensive analysis of Quantum Subspace Expansion (QSE), detailing its methodological implementation, optimization on noisy hardware, and applications in molecular energy calculations for drug discovery.",
+  "keywords": [
+    "Quantum Subspace Expansion",
+    "QSE",
+    "Variational Quantum Eigensolver",
+    "VQE",
+    "Drug Discovery",
+    "Molecular Energy Calculations",
+    "Classical Shadows",
+    "Krylov Subspace",
+    "NISQ",
+    "Error Mitigation",
+    "Partitioned QSE"
+  ],
+  "topic": "Quantum Computational Chemistry",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and pharmaceutical professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a58eef946afea98db4c",
+  "source_url": "https://www.quantumchemsci.com/posts/quantumchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "quantum-subspace-expansion-revolutionizing-molecular-energy-calculations-for-drug-discovery_20260403.pdf"
+}
