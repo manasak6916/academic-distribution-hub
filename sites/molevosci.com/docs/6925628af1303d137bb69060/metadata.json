@@ -1,0 +1,26 @@
+{
+  "title": "Fitness Landscapes and Epistasis: Navigating Molecular Evolution from Theory to Clinical Application",
+  "description": "A comprehensive guide on fitness landscapes and epistasis, exploring genotype-phenotype maps, empirical mapping methodologies, and their applications in predicting antimicrobial resistance and drug development.",
+  "keywords": [
+    "Fitness landscapes",
+    "Epistasis",
+    "Molecular evolution",
+    "Antimicrobial resistance",
+    "Genotype-phenotype map",
+    "Deep mutational scanning",
+    "Compensatory evolution"
+  ],
+  "topic": "Molecular Evolution and Genetics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "6925628af1303d137bb69060",
+  "source_url": "https://www.molevosci.com/posts/molevosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "fitness-landscapes-and-epistasis-navigating-molecular-evolution-from-theory-to-clinical-application_20260403.pdf"
+}
