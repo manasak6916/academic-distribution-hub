@@ -1,0 +1,29 @@
+{
+  "title": "From Variant to Function: How Functional Genomics is Decoding Disease Mechanisms and Revolutionizing Drug Discovery",
+  "description": "A comprehensive guide on leveraging functional genomics, multi-omics integration, CRISPR screening, and AI to decode disease mechanisms and accelerate drug discovery.",
+  "keywords": [
+    "Functional genomics",
+    "GWAS",
+    "CRISPR",
+    "Multi-omics",
+    "Artificial intelligence",
+    "Spatial transcriptomics",
+    "Patient-derived organoids",
+    "Disease mechanisms",
+    "Precision medicine",
+    "Orthogonal validation"
+  ],
+  "topic": "Functional Genomics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692577b3e0ee015b71d79348",
+  "source_url": "https://www.funcgenomics.com/posts/funcgenomics.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "from-variant-to-function-how-functional-genomics-is-decoding-disease-mechanisms-and-revolutionizing-drug-discovery_20260403.pdf"
+}
