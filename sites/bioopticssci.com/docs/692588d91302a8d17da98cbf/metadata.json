@@ -1,0 +1,27 @@
+{
+  "title": "Laser-Tissue Interactions: Fundamentals, Clinical Applications, and Future Directions for Biomedical Research",
+  "description": "A comprehensive examination of the fundamental principles, computational modeling, clinical applications, and emerging technologies of laser-tissue interactions in biomedical research.",
+  "keywords": [
+    "laser-tissue interactions",
+    "selective photothermolysis",
+    "optical properties",
+    "bioheat transfer",
+    "photobiomodulation",
+    "photodynamic therapy",
+    "thermal ablation",
+    "computational modeling"
+  ],
+  "topic": "Biomedical Research",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692588d91302a8d17da98cbf",
+  "source_url": "https://www.bioopticssci.com/posts/bioopticssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "laser-tissue-interactions-fundamentals-clinical-applications-and-future-directions-for-biomedical-research_20260403.pdf"
+}
