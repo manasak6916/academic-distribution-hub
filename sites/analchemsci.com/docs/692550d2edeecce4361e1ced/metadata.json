@@ -1,0 +1,29 @@
+{
+  "title": "How to Select a Comparative Method for Method Validation: A Strategic Guide for Scientists",
+  "description": "A comprehensive guide for scientists on selecting, validating, and documenting comparative methods for analytical method validation, incorporating regulatory guidelines and AQbD principles.",
+  "keywords": [
+    "comparative method",
+    "method validation",
+    "reference method",
+    "systematic error",
+    "analytical quality by design",
+    "AQbD",
+    "ICH Q14",
+    "data integrity",
+    "linear regression",
+    "matrix effects"
+  ],
+  "topic": "Analytical Method Validation",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Scientists, researchers, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "692550d2edeecce4361e1ced",
+  "source_url": "https://www.analchemsci.com/posts/analchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "how-to-select-a-comparative-method-for-method-validation-a-strategic-guide-for-scientists_20260403.pdf"
+}
