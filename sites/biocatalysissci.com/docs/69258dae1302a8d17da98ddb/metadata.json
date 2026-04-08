@@ -1,0 +1,28 @@
+{
+  "title": "From Sequence to Function: A Guide to Modern Enzyme Function Annotation",
+  "description": "A comprehensive guide exploring modern computational techniques, deep learning models, and experimental validation protocols for accurate enzyme function annotation from genomic data.",
+  "keywords": [
+    "Enzyme annotation",
+    "EC number",
+    "Deep learning",
+    "CLEAN-Contact",
+    "DeepECtransformer",
+    "Bioinformatics",
+    "Metagenomics",
+    "Protein language models",
+    "AlphaFold"
+  ],
+  "topic": "Bioinformatics and Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, computational biologists, and industry professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69258dae1302a8d17da98ddb",
+  "source_url": "https://www.biocatalysissci.com/posts/biocatalysissci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "from-sequence-to-function-a-guide-to-modern-enzyme-function-annotation_20260403.pdf"
+}
