@@ -1,0 +1,29 @@
+{
+  "title": "Scaling Relationships in Catalysis: From Fundamental Limitations to Advanced Optimization Strategies",
+  "description": "A comprehensive exploration of linear scaling relationships in catalysis, covering their foundational principles, their limiting impact on catalytic activity in reactions like OER, and advanced computational and experimental strategies to overcome these constraints through dynamic and multi-site catalyst design.",
+  "keywords": [
+    "scaling relationships",
+    "catalysis",
+    "electrocatalysis",
+    "oxygen evolution reaction (OER)",
+    "density functional theory (DFT)",
+    "operando spectroscopy",
+    "dual-site cooperation",
+    "active site evolution",
+    "microkinetic modeling",
+    "transition metal carbides"
+  ],
+  "topic": "Catalysis and Materials Science",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "692590121302a8d17da98eaa",
+  "source_url": "https://www.catalystdevsci.com/posts/catalystdevsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "scaling-relationships-in-catalysis-from-fundamental-limitations-to-advanced-optimization-strategies_20260403.pdf"
+}
