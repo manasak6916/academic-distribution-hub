@@ -1,0 +1,30 @@
+{
+  "title": "Advanced Cell Cryopreservation Protocols: Optimizing Freezing and Thawing for Enhanced Viability in Biomedical Research",
+  "description": "A comprehensive guide to cell cryopreservation covering fundamental principles, detailed protocols for freezing and thawing, troubleshooting, and analysis of emerging technologies to optimize cell viability and reproducibility in biomedical research and drug development.",
+  "keywords": [
+    "cryopreservation",
+    "cell freezing",
+    "cell thawing",
+    "cryoprotectant",
+    "DMSO",
+    "cell viability",
+    "controlled-rate freezing",
+    "serum-free media",
+    "iPSCs",
+    "CAR-T cells",
+    "aseptic technique"
+  ],
+  "topic": "Cell Cryopreservation",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 1.0,
+  "doc_id": "69254fd2edeecce4361e1caa",
+  "source_url": "https://www.cellbiotek.com/posts/cellbiotek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "advanced-cell-cryopreservation-protocols-optimizing-freezing-and-thawing-for-enhanced-viability-in-biomedical-research_20260403.pdf"
+}
