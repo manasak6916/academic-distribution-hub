@@ -1,0 +1,31 @@
+{
+  "title": "PCR Primer and Probe Design: A Comprehensive Guide from Principles to Validation for Researchers",
+  "description": "A complete framework for designing, optimizing, and validating primers and probes for PCR, qPCR, and dPCR assays, including troubleshooting and MIQE compliance.",
+  "keywords": [
+    "PCR",
+    "primer design",
+    "probe design",
+    "qPCR",
+    "dPCR",
+    "melting temperature",
+    "GC content",
+    "multiplexing",
+    "bisulfite sequencing",
+    "MIQE guidelines",
+    "assay validation",
+    "troubleshooting"
+  ],
+  "topic": "Molecular Biology and Assay Development",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a17eef946afea98db02",
+  "source_url": "https://www.microbiosci.com/posts/microbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "pcr-primer-and-probe-design-a-comprehensive-guide-from-principles-to-validation-for-researchers_20260403.pdf"
+}
