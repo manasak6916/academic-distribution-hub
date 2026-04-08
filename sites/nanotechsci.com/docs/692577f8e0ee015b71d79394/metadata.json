@@ -1,0 +1,29 @@
+{
+  "title": "SCP-Nano: Revolutionizing Nanocarrier Tracking with Single-Cell Resolution and AI",
+  "description": "An exploration of SCP-Nano, an integrated pipeline combining tissue clearing, light-sheet microscopy, and deep learning to map nanocarrier biodistribution across entire organisms at single-cell resolution, accelerating the development of safer nanotherapeutics.",
+  "keywords": [
+    "SCP-Nano",
+    "nanocarrier",
+    "biodistribution",
+    "single-cell resolution",
+    "tissue clearing",
+    "light-sheet microscopy",
+    "deep learning",
+    "lipid nanoparticles",
+    "AAV",
+    "drug delivery"
+  ],
+  "topic": "Nanomedicine",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692577f8e0ee015b71d79394",
+  "source_url": "https://www.nanotechsci.com/posts/nanotechsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "scp-nano-revolutionizing-nanocarrier-tracking-with-single-cell-resolution-and-ai_20260403.pdf"
+}
