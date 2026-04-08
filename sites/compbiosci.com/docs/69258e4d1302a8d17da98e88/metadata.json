@@ -1,0 +1,29 @@
+{
+  "title": "Computational Biology for Beginners: A Guide to Foundational Concepts, Methods, and Applications for Researchers",
+  "description": "A comprehensive primer for researchers and drug development professionals covering foundational computational biology skills, AI applications, data management, and reproducibility.",
+  "keywords": [
+    "computational biology",
+    "bioinformatics",
+    "drug discovery",
+    "artificial intelligence",
+    "machine learning",
+    "AlphaFold",
+    "reproducibility",
+    "Central Dogma",
+    "Python",
+    "R"
+  ],
+  "topic": "Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69258e4d1302a8d17da98e88",
+  "source_url": "https://www.compbiosci.com/posts/compbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "computational-biology-for-beginners-a-guide-to-foundational-concepts-methods-and-applications-for-researchers_20260403.pdf"
+}
