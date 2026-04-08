@@ -1,0 +1,28 @@
+{
+  "title": "Computational vs Theoretical Chemistry: A Practical Guide for Drug Discovery Researchers",
+  "description": "A comprehensive analysis distinguishing computational and theoretical chemistry, exploring their methodologies, AI integration, and applications in drug discovery and materials science.",
+  "keywords": [
+    "theoretical chemistry",
+    "computational chemistry",
+    "quantum mechanics",
+    "drug discovery",
+    "Density Functional Theory",
+    "Coupled-Cluster Theory",
+    "machine learning",
+    "molecular dynamics",
+    "materials design"
+  ],
+  "topic": "Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Drug Discovery Researchers and Chemical Scientists",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "6925757be0ee015b71d79216",
+  "source_url": "https://www.compchemsci.com/posts/compchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "computational-vs-theoretical-chemistry-a-practical-guide-for-drug-discovery-researchers_20260403.pdf"
+}
