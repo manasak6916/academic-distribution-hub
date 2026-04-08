@@ -1,0 +1,27 @@
+{
+  "title": "Molecular Dynamics in Cancer Treatment: A Guide to Simulation, Applications, and Clinical Translation",
+  "description": "A comprehensive guide on the application of molecular dynamics simulations in cancer research, covering fundamental principles, drug delivery optimization, machine learning integration, and experimental validation.",
+  "keywords": [
+    "Molecular dynamics",
+    "cancer research",
+    "drug discovery",
+    "nanocarriers",
+    "machine learning",
+    "protein flexibility",
+    "force fields",
+    "multi-omics"
+  ],
+  "topic": "Computational Oncology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69255f909d9cf8a335d518cd",
+  "source_url": "https://www.cancerchem.com/posts/cancerchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "molecular-dynamics-in-cancer-treatment-a-guide-to-simulation-applications-and-clinical-translation_20260403.pdf"
+}
