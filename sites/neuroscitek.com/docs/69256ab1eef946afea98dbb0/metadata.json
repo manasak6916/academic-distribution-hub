@@ -1,0 +1,33 @@
+{
+  "title": "Intrinsic Functional Network Neuroscience: Unlocking Individual Differences for Precision Medicine",
+  "description": "This article synthesizes current research on Intrinsic Functional Network Neuroscience (ifNN) and its pivotal role in quantifying individual differences in brain organization. We explore the foundational principles of brain network variability, methodological frameworks for reliable measurement, and optimization strategies for enhancing data quality. The content details how intrinsic connectivity networks serve as neural fingerprints, predicting individual traits in cognition, social behavior, and clinical susceptibility. For researchers and drug development professionals, we provide a critical analysis of validation approaches comparing task-evoked and resting-state architectures, concluding with translational implications for developing personalized biomarkers and targeted therapeutic interventions.",
+  "keywords": [
+    "Intrinsic Functional Network Neuroscience",
+    "ifNN",
+    "individual differences",
+    "neural fingerprint",
+    "resting-state fMRI",
+    "functional connectivity",
+    "Default Mode Network",
+    "Frontoparietal Network",
+    "Salience Network",
+    "test-retest reliability",
+    "biomarkers",
+    "precision medicine",
+    "connectomics",
+    "multivariate predictive modeling"
+  ],
+  "topic": "Neuroscience",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256ab1eef946afea98dbb0",
+  "source_url": "https://www.neuroscitek.com/posts/neuroscitek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "intrinsic-functional-network-neuroscience-unlocking-individual-differences-for-precision-medicine_20260403.pdf"
+}
