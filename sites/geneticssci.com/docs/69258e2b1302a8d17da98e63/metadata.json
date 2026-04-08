@@ -1,0 +1,28 @@
+{
+  "title": "Genotype to Phenotype Prediction: Overcoming Biological Complexity with Machine Learning and Cross-Species Data",
+  "description": "An in-depth exploration of advanced machine learning methodologies, cross-species data integration, and validation frameworks to improve genotype-to-phenotype prediction in precision medicine and drug development.",
+  "keywords": [
+    "genotype-to-phenotype",
+    "machine learning",
+    "cross-species data",
+    "epistasis",
+    "pleiotropy",
+    "explainable AI",
+    "drug toxicity",
+    "Genotype-Phenotype Difference",
+    "PhEval"
+  ],
+  "topic": "Computational Biology and Genomics",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69258e2b1302a8d17da98e63",
+  "source_url": "https://www.geneticssci.com/posts/geneticssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "genotype-to-phenotype-prediction-overcoming-biological-complexity-with-machine-learning-and-cross-species-data_20260403.pdf"
+}
