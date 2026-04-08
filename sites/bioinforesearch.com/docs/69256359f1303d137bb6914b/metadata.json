@@ -1,0 +1,27 @@
+{
+  "title": "Getting Started with Genomic Variant Annotation: A Comprehensive Guide for Researchers and Clinicians",
+  "description": "A comprehensive guide on genomic variant annotation covering workflows, bioinformatics tools, coding and non-coding variants, AI applications, and clinical validation.",
+  "keywords": [
+    "Genomic Variant Annotation",
+    "Next-Generation Sequencing",
+    "Bioinformatics",
+    "Precision Medicine",
+    "Variant Calling",
+    "Machine Learning",
+    "CRISPR Base Editing",
+    "Deep Mutational Scanning"
+  ],
+  "topic": "Genomics and Bioinformatics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, clinicians, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256359f1303d137bb6914b",
+  "source_url": "https://www.bioinforesearch.com/posts/bioinforesearch.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "getting-started-with-genomic-variant-annotation-a-comprehensive-guide-for-researchers-and-clinicians_20260403.pdf"
+}
