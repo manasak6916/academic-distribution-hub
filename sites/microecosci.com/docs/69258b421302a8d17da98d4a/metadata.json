@@ -1,0 +1,29 @@
+{
+  "title": "Microbial Engines: How Bacteria and Archaea Drive Global Carbon, Nitrogen, and Sulfur Cycles",
+  "description": "A comprehensive overview of the indispensable roles microorganisms play in Earth's biogeochemical cycles, exploring metabolic pathways, advanced research methodologies, anthropogenic impacts, and bioremediation applications.",
+  "keywords": [
+    "biogeochemical cycles",
+    "microorganisms",
+    "carbon cycle",
+    "nitrogen cycle",
+    "sulfur cycle",
+    "metagenomics",
+    "methanogenesis",
+    "bioremediation",
+    "stable isotope probing",
+    "MISO metabolism"
+  ],
+  "topic": "Microbial Biogeochemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and scientists",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69258b421302a8d17da98d4a",
+  "source_url": "https://www.microecosci.com/posts/microecosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "microbial-engines-how-bacteria-and-archaea-drive-global-carbon-nitrogen-and-sulfur-cycles_20260403.pdf"
+}
