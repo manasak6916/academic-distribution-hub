@@ -1,0 +1,27 @@
+{
+  "title": "Beyond Neutrality: Rethinking Charge-Balancing Criteria for Next-Generation Inorganic Compounds and Materials",
+  "description": "A comprehensive examination of the limitations of the charge-balancing criterion in predicting inorganic compound synthesizability, highlighting the shift towards data-driven machine learning models like SynthNN for advanced materials discovery.",
+  "keywords": [
+    "charge-balancing",
+    "inorganic compounds",
+    "synthesizability",
+    "machine learning",
+    "SynthNN",
+    "materials discovery",
+    "thermodynamic stability",
+    "ICSD"
+  ],
+  "topic": "Materials Science and Computational Chemistry",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692562fef1303d137bb690e1",
+  "source_url": "https://www.inorgmatchem.com/posts/inorgmatchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "beyond-neutrality-rethinking-charge-balancing-criteria-for-next-generation-inorganic-compounds-and-materials_20260403.pdf"
+}
