@@ -1,0 +1,27 @@
+{
+  "title": "Comparative Methods for Evolutionary Constraint Analysis: From Genomic Signals to Clinical Applications in Drug Discovery",
+  "description": "A comprehensive overview of modern comparative methods for evolutionary constraint analysis, detailing the integration of evolutionary and population genetics to predict pathogenic variants, identify functional residues, and de-risk drug target selection.",
+  "keywords": [
+    "Evolutionary constraint",
+    "Population constraint",
+    "Missense Enrichment Score",
+    "AlphaFold2",
+    "Drug discovery",
+    "Multiple Sequence Alignments",
+    "Direct Coupling Analysis",
+    "Phylogenetic Comparative Methods"
+  ],
+  "topic": "Genomics and Bioinformatics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256378f1303d137bb6916e",
+  "source_url": "https://www.evobiosci.com/posts/evobiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "comparative-methods-for-evolutionary-constraint-analysis-from-genomic-signals-to-clinical-applications-in-drug-discovery_20260403.pdf"
+}
