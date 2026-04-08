@@ -1,0 +1,27 @@
+{
+  "title": "PEDOT:PSS for Next-Generation Bioelectronics: From Material Fundamentals to Clinical Neural Interfaces",
+  "description": "A comprehensive review of PEDOT:PSS as a transformative material for bioelectronic applications, covering its chemistry, fabrication, performance engineering, and clinical applications.",
+  "keywords": [
+    "PEDOT:PSS",
+    "bioelectronics",
+    "conducting polymers",
+    "neural interfaces",
+    "OECTs",
+    "hydrogels",
+    "secondary doping",
+    "biocompatibility"
+  ],
+  "topic": "Bioelectronics and Materials Science",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257cd3e0ee015b71d79522",
+  "source_url": "https://www.bioelectrosci.com/posts/bioelectrosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "pedot-pss-for-next-generation-bioelectronics-from-material-fundamentals-to-clinical-neural-interfaces_20260403.pdf"
+}
