@@ -1,0 +1,29 @@
+{
+  "title": "Structure-Based Drug Design: From Foundational Principles to AI-Driven Discovery",
+  "description": "A comprehensive overview of Structure-Based Drug Design (SBDD), detailing foundational structural techniques, computational methodologies, AI-driven generative models, and practical experimental protocols for modern drug discovery.",
+  "keywords": [
+    "Structure-Based Drug Design",
+    "SBDD",
+    "Molecular Docking",
+    "Virtual Screening",
+    "Molecular Dynamics",
+    "AlphaFold",
+    "Generative AI",
+    "X-ray Crystallography",
+    "Cryo-EM",
+    "KRAS"
+  ],
+  "topic": "Pharmaceutical Research and Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a71eef946afea98db68",
+  "source_url": "https://www.drugchemsci.com/posts/drugchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "structure-based-drug-design-from-foundational-principles-to-ai-driven-discovery_20260403.pdf"
+}
