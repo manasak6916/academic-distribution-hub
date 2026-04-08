@@ -1,0 +1,30 @@
+{
+  "title": "Enhanced Sampling with Replica-Exchange MD: A Comprehensive Guide for Biomolecular Simulation and Drug Discovery",
+  "description": "Replica-Exchange Molecular Dynamics (REMD) has emerged as a powerful computational technique to overcome the timescale limitations of conventional molecular dynamics, enabling the study of complex biomolecular processes like protein folding, aggregation, and drug binding. This article provides a comprehensive resource for researchers and drug development professionals, covering the foundational theory of REMD, detailed methodological protocols for major simulation packages like GROMACS and AMBER, and advanced Hamiltonian exchange variants. It offers practical solutions for optimizing replica exchange efficiency and troubleshooting common problems, supported by validation case studies on peptides and proteins. By integrating the latest methodological advances, this guide aims to equip scientists with the knowledge to apply REMD for enhanced conformational sampling in biomedical research.",
+  "keywords": [
+    "Replica-Exchange Molecular Dynamics",
+    "REMD",
+    "Enhanced Sampling",
+    "Molecular Dynamics",
+    "Biomolecular Simulation",
+    "Protein Folding",
+    "Peptide Aggregation",
+    "Drug Discovery",
+    "Free Energy Landscape",
+    "GROMACS",
+    "AMBER"
+  ],
+  "topic": "Computational Biophysics",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals in computational chemistry and structural biology.",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692569f8eef946afea98dadf",
+  "source_url": "https://www.moldynamicssci.com/posts/moldynamicssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "enhanced-sampling-with-replica-exchange-md-a-comprehensive-guide-for-biomolecular-simulation-and-drug-discovery_20260403.pdf"
+}
