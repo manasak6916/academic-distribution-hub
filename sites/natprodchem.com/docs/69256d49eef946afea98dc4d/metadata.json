@@ -1,0 +1,33 @@
+{
+  "title": "Navigating Nature's Pharmacy: Charting the Natural Product Chemical Space for Modern Drug Discovery",
+  "description": "This article provides a comprehensive overview for researchers and drug development professionals on the strategic exploration of natural product (NP) chemical space to uncover novel therapeutic leads. It covers the foundational concept of the biologically relevant chemical space (BioReCS), where NPs occupy unique and underexplored regions compared to synthetic libraries. The piece details cutting-edge methodological approaches, including AI-driven screening, genomics, and high-throughput assays, and addresses significant challenges such as supply, characterization, and regulatory hurdles. By validating the success of NPs through approved drugs and comparative analyses, the article underscores NPs' irreplaceable role in addressing unmet medical needs, particularly in antimicrobial and anticancer therapy, and outlines a future roadmap for integration with innovative technologies.",
+  "keywords": [
+    "natural products",
+    "drug discovery",
+    "chemical space",
+    "BioReCS",
+    "high-throughput screening",
+    "AI",
+    "genomics",
+    "metabolomics",
+    "biosynthetic pathways",
+    "antimicrobial resistance",
+    "anticancer",
+    "antibody-drug conjugates",
+    "Nagoya Protocol",
+    "synthetic biology"
+  ],
+  "topic": "Drug Discovery and Development",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 1.0,
+  "doc_id": "69256d49eef946afea98dc4d",
+  "source_url": "https://www.natprodchem.com/posts/natprodchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "navigating-nature-s-pharmacy-charting-the-natural-product-chemical-space-for-modern-drug-discovery_20260403.pdf"
+}
