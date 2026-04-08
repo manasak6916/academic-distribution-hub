@@ -1,0 +1,29 @@
+{
+  "title": "Chemical Genomics in Drug Discovery: A Systematic Guide to Target Identification, Validation, and Therapeutic Innovation",
+  "description": "A comprehensive guide detailing how chemical genomics, integrated with artificial intelligence and high-throughput screening, accelerates modern drug discovery and target validation.",
+  "keywords": [
+    "chemical genomics",
+    "drug discovery",
+    "target identification",
+    "target validation",
+    "artificial intelligence",
+    "high-throughput screening",
+    "chemical genetics",
+    "phenotypic drug discovery",
+    "polypharmacology",
+    "CRISPRi"
+  ],
+  "topic": "Drug Discovery and Chemical Genomics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692563dcf1303d137bb691e3",
+  "source_url": "https://www.chemgenomics.com/posts/chemgenomics.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "chemical-genomics-in-drug-discovery-a-systematic-guide-to-target-identification-validation-and-therapeutic-innovation_20260403.pdf"
+}
