@@ -1,0 +1,29 @@
+{
+  "title": "Targeting Apoptotic Dysregulation in Cancer: From Molecular Mechanisms to Clinical Therapeutics",
+  "description": "A comprehensive review of apoptotic pathways, their dysregulation in cancer, and therapeutic strategies targeting apoptosis modulators to overcome treatment resistance.",
+  "keywords": [
+    "apoptosis",
+    "cancer",
+    "BCL-2",
+    "BH3 mimetics",
+    "p53",
+    "IAPs",
+    "venetoclax",
+    "TRAIL",
+    "biomarkers",
+    "therapy resistance"
+  ],
+  "topic": "Cancer Biology and Therapeutics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a8eeef946afea98db8a",
+  "source_url": "https://www.apoptosisstudy.com/posts/apoptosisstudy.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "targeting-apoptotic-dysregulation-in-cancer-from-molecular-mechanisms-to-clinical-therapeutics_20260403.pdf"
+}
