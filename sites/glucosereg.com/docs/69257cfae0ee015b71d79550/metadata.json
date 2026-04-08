@@ -1,0 +1,28 @@
+{
+  "title": "Advances in CGM Sensor Error Analysis and Calibration Algorithms: A Technical Review for Biomedical Research",
+  "description": "A comprehensive technical review of continuous glucose monitoring (CGM) systems, focusing on sources of sensor error, physiological dynamics, and the evolution of calibration methodologies.",
+  "keywords": [
+    "Continuous Glucose Monitoring",
+    "CGM",
+    "Sensor Error",
+    "Calibration Algorithms",
+    "Glucose Oxidase",
+    "Mean Absolute Relative Difference",
+    "Biofouling",
+    "Sensor Drift",
+    "Machine Learning"
+  ],
+  "topic": "Biomedical Research and Diabetes Technology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Biomedical Researchers and Drug Development Professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257cfae0ee015b71d79550",
+  "source_url": "https://www.glucosereg.com/posts/glucosereg.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "advances-in-cgm-sensor-error-analysis-and-calibration-algorithms-a-technical-review-for-biomedical-research_20260403.pdf"
+}
