@@ -1,0 +1,29 @@
+{
+  "title": "A Comprehensive Flux Balance Analysis (FBA) Protocol for E. coli: From Foundational Concepts to Advanced Applications in Biomedical Research",
+  "description": "A comprehensive guide and protocol for implementing Flux Balance Analysis (FBA) in E. coli, covering genome-scale models like iML1515, enzyme constraints, dynamic FBA, machine learning integration, and a case study on L-cysteine overproduction.",
+  "keywords": [
+    "Flux Balance Analysis",
+    "FBA",
+    "E. coli",
+    "iML1515",
+    "Constraint-Based Modeling",
+    "Metabolic Engineering",
+    "Dynamic FBA",
+    "ECMpy",
+    "Machine Learning",
+    "L-cysteine"
+  ],
+  "topic": "Systems Biology and Metabolic Engineering",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and professionals in drug discovery, systems biology, and bioprocess development",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692563eaf1303d137bb691f2",
+  "source_url": "https://www.metabengsci.com/posts/metabengsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "a-comprehensive-flux-balance-analysis-fba-protocol-for-e-coli-from-foundational-concepts-to-advanced-applications-in-biomedical-research_20260403.pdf"
+}
