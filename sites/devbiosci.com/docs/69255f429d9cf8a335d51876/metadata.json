@@ -1,0 +1,31 @@
+{
+  "title": "Evo-Devo in Biomedicine: How Evolutionary Developmental Biology is Revolutionizing Drug Discovery",
+  "description": "An exploration of the impact of evolutionary developmental biology (evo-devo) on biomedical research and drug discovery, covering foundational principles, methodologies, and applications such as kinase inhibitor development and biomarker discovery.",
+  "keywords": [
+    "Evo-Devo",
+    "Evolutionary Developmental Biology",
+    "Drug Discovery",
+    "Deep Homology",
+    "Developmental Bias",
+    "Ancestral Protein Reconstruction",
+    "Gene Regulatory Networks",
+    "Eco-Evo-Devo",
+    "Phenotypic Plasticity",
+    "Biomarker",
+    "Kinase Inhibitor",
+    "Hox Genes"
+  ],
+  "topic": "Biomedical Research",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69255f429d9cf8a335d51876",
+  "source_url": "https://www.devbiosci.com/posts/devbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "evo-devo-in-biomedicine-how-evolutionary-developmental-biology-is-revolutionizing-drug-discovery_20260403.pdf"
+}
