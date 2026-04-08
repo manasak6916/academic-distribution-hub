@@ -1,0 +1,27 @@
+{
+  "title": "A Comprehensive Guide to Alpha and Beta Diversity Indices in Microbiome Research",
+  "description": "A comprehensive guide covering foundational concepts, practical application methodologies, troubleshooting, and validation techniques for alpha and beta diversity indices in microbiome research.",
+  "keywords": [
+    "alpha diversity",
+    "beta diversity",
+    "microbiome",
+    "Shannon index",
+    "Bray-Curtis",
+    "rarefaction",
+    "QIIME 2",
+    "PERMANOVA"
+  ],
+  "topic": "Microbiome Research and Bioinformatics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692577c1e0ee015b71d79356",
+  "source_url": "https://www.microbiomestudy.com/posts/microbiomestudy.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "a-comprehensive-guide-to-alpha-and-beta-diversity-indices-in-microbiome-research_20260403.pdf"
+}
