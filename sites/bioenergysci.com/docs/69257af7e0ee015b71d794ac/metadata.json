@@ -1,0 +1,29 @@
+{
+  "title": "Life Cycle Assessment for Bioenergy Systems: Methods, Challenges, and Future Directions",
+  "description": "This article provides a comprehensive examination of Life Cycle Assessment (LCA) as applied to bioenergy systems. It explores the foundational principles of LCA, detailing the critical methodological distinctions between attributional and consequential approaches. The content delves into persistent application challenges, including data quality, system boundary definition, and accounting for indirect land-use change. Furthermore, it reviews emerging trends such as social LCA and life cycle sustainability assessment, and offers insights into harmonization efforts and comparative analyses of different bioenergy pathways.",
+  "keywords": [
+    "Life Cycle Assessment (LCA)",
+    "Bioenergy",
+    "Sustainability",
+    "Attributional LCA",
+    "Consequential LCA",
+    "Indirect Land-Use Change (ILUC)",
+    "Biogenic Carbon",
+    "Social LCA (S-LCA)",
+    "LCA Harmonization",
+    "Biorefinery"
+  ],
+  "topic": "Bioenergy Sustainability Assessment",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, policymakers, and professionals in the bioenergy and sustainability fields.",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "69257af7e0ee015b71d794ac",
+  "source_url": "https://www.bioenergysci.com/posts/bioenergysci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "life-cycle-assessment-for-bioenergy-systems-methods-challenges-and-future-directions_20260403.pdf"
+}
