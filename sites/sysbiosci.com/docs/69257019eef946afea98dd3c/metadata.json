@@ -1,0 +1,27 @@
+{
+  "title": "Systems Biology in Biomedical Research: From Molecular Networks to Precision Medicine",
+  "description": "An exploration of systems biology's role in biomedical research, highlighting computational modeling, multi-omics integration, and AI-driven drug discovery.",
+  "keywords": [
+    "Systems Biology",
+    "Precision Medicine",
+    "Multi-omics",
+    "Network Analysis",
+    "Drug Discovery",
+    "Mathematical Modeling",
+    "Artificial Intelligence",
+    "Pharmacokinetics"
+  ],
+  "topic": "Biomedical Research",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and professionals in biomedicine and pharmacology",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257019eef946afea98dd3c",
+  "source_url": "https://www.sysbiosci.com/posts/sysbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "systems-biology-in-biomedical-research-from-molecular-networks-to-precision-medicine_20260403.pdf"
+}
