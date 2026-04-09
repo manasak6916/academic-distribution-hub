@@ -1,0 +1,28 @@
+{
+  "title": "Molecular Dynamics Simulations in Biomolecular Research: From Atomic Insights to Drug Discovery",
+  "description": "A comprehensive overview of Molecular Dynamics simulations, covering foundational principles, force fields, enhanced sampling, machine learning integration, and applications in drug discovery and structural biology.",
+  "keywords": [
+    "Molecular Dynamics",
+    "Biomolecular Research",
+    "Drug Discovery",
+    "Force Fields",
+    "Enhanced Sampling",
+    "Machine Learning",
+    "Coarse-Grained Models",
+    "Cryo-EM",
+    "NMR"
+  ],
+  "topic": "Computational Biology and Biophysics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, computational biologists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692567a7eef946afea98da76",
+  "source_url": "https://www.theochemtek.com/posts/theochemtek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "molecular-dynamics-simulations-in-biomolecular-research-from-atomic-insights-to-drug-discovery_20260403.pdf"
+}
