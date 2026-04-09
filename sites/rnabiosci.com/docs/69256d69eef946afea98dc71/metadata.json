@@ -1,0 +1,30 @@
+{
+  "title": "A-to-I RNA Editing: From Molecular Mechanism to Therapeutic Application in Biomedicine",
+  "description": "A comprehensive review of Adenosine-to-inosine (A-to-I) RNA editing, covering the molecular mechanisms of ADAR enzymes, their roles in immunity and disease, methods for detection, and the development of programmable RNA editing technologies for therapeutic applications.",
+  "keywords": [
+    "A-to-I RNA editing",
+    "ADAR",
+    "ADAR1",
+    "ADAR2",
+    "dsRNA",
+    "programmable RNA editing",
+    "site-directed RNA editing",
+    "innate immunity",
+    "cancer",
+    "therapeutic applications",
+    "guide RNA"
+  ],
+  "topic": "A-to-I RNA Editing",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69256d69eef946afea98dc71",
+  "source_url": "https://www.rnabiosci.com/posts/rnabiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "a-to-i-rna-editing-from-molecular-mechanism-to-therapeutic-application-in-biomedicine_20260403.pdf"
+}
