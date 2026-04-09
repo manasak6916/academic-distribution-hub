@@ -1,0 +1,27 @@
+{
+  "title": "Genome-Scale Metabolic Modeling: A Systems Biology Framework for Drug Discovery and Biomedical Innovation",
+  "description": "A comprehensive guide to Genome-Scale Metabolic Models (GEMs), covering foundational principles, reconstruction methodologies, and cutting-edge applications in drug discovery and biomedical research.",
+  "keywords": [
+    "Genome-Scale Metabolic Models",
+    "GEMs",
+    "Flux Balance Analysis",
+    "Systems Biology",
+    "Drug Discovery",
+    "Constraint-Based Modeling",
+    "Multi-Omics Integration",
+    "Live Biotherapeutic Products"
+  ],
+  "topic": "Systems Biology and Metabolic Modeling",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "69257843e0ee015b71d793cb",
+  "source_url": "https://www.metabeng.com/posts/metabeng.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "genome-scale-metabolic-modeling-a-systems-biology-framework-for-drug-discovery-and-biomedical-innovation_20260403.pdf"
+}
