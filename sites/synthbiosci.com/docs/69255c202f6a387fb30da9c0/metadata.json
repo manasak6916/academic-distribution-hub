@@ -1,0 +1,29 @@
+{
+  "title": "Next-Generation Synthetic Biology Tools: Revolutionizing Natural Product Discovery",
+  "description": "A comprehensive overview of synthetic biology tools, including DBTL cycles, CRISPRa, heterologous expression, and AI, used to activate cryptic biosynthetic gene clusters and revolutionize natural product discovery.",
+  "keywords": [
+    "synthetic biology",
+    "natural products",
+    "biosynthetic gene clusters",
+    "genome mining",
+    "CRISPRa",
+    "heterologous expression",
+    "DBTL cycle",
+    "antiSMASH",
+    "high-throughput screening",
+    "machine learning"
+  ],
+  "topic": "Synthetic Biology and Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69255c202f6a387fb30da9c0",
+  "source_url": "https://www.synthbiosci.com/posts/synthbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "next-generation-synthetic-biology-tools-revolutionizing-natural-product-discovery_20260403.pdf"
+}
