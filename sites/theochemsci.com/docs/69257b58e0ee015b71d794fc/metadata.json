@@ -1,0 +1,29 @@
+{
+  "title": "Theory First: How Computational Prediction is Revolutionizing Molecular Structure Discovery",
+  "description": "An in-depth review of how computational methods, artificial intelligence, and theoretical chemistry are revolutionizing the prediction of molecular and protein structures before experimental validation.",
+  "keywords": [
+    "Computational prediction",
+    "Molecular structure",
+    "Protein structure",
+    "Artificial intelligence",
+    "AlphaFold",
+    "Drug discovery",
+    "Quantum chemistry",
+    "Global optimization",
+    "Generative AI",
+    "Explainable AI"
+  ],
+  "topic": "Computational Chemistry and Structural Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69257b58e0ee015b71d794fc",
+  "source_url": "https://www.theochemsci.com/posts/theochemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "theory-first-how-computational-prediction-is-revolutionizing-molecular-structure-discovery_20260403.pdf"
+}
