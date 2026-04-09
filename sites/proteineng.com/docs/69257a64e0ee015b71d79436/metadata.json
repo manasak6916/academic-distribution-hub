@@ -1,0 +1,28 @@
+{
+  "title": "Amino Acid Sequence Representation Methods: From Foundational Encoding to Advanced AI Applications",
+  "description": "A comprehensive analysis of amino acid sequence representation methods, exploring foundational encoding schemes, advanced AI applications, and practical implementation strategies for computational biology.",
+  "keywords": [
+    "amino acid sequence representation",
+    "computational biology",
+    "deep learning",
+    "protein language models",
+    "large language models",
+    "substitution matrices",
+    "feature extraction",
+    "protein structure prediction",
+    "drug discovery"
+  ],
+  "topic": "Computational Biology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257a64e0ee015b71d79436",
+  "source_url": "https://www.proteineng.com/posts/proteineng.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "amino-acid-sequence-representation-methods-from-foundational-encoding-to-advanced-ai-applications_20260403.pdf"
+}
