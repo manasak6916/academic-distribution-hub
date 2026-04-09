@@ -1,0 +1,30 @@
+{
+  "title": "Conceptual Advances in Theoretical Inorganic Chemistry: Computational Methods Reshaping Drug Discovery",
+  "description": "This article explores transformative advances in theoretical inorganic chemistry and their critical applications in modern drug discovery, examining how computational methods are revolutionizing pharmaceutical development. The content spans foundational quantum mechanical principles, practical applications in structure-based drug design, and validation through case studies, providing a comprehensive resource for leveraging theoretical inorganic chemistry to accelerate the identification and optimization of therapeutic compounds.",
+  "keywords": [
+    "Theoretical Inorganic Chemistry",
+    "Computational Chemistry",
+    "Drug Discovery",
+    "Quantum Mechanics (QM)",
+    "Molecular Mechanics (MM)",
+    "QM/MM",
+    "Density Functional Theory (DFT)",
+    "Molecular Dynamics (MD)",
+    "Virtual Screening",
+    "QSAR",
+    "Machine Learning Force Fields"
+  ],
+  "topic": "Computational Chemistry and Drug Discovery",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "6925520dedeecce4361e1d3c",
+  "source_url": "https://www.inorgchemsci.com/posts/inorgchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "conceptual-advances-in-theoretical-inorganic-chemistry-computational-methods-reshaping-drug-discovery_20260403.pdf"
+}
