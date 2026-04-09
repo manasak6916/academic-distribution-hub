@@ -1,0 +1,29 @@
+{
+  "title": "Adverse Outcome Pathways (AOP): A Transformative Framework for 21st Century Toxicology and Drug Development",
+  "description": "This article provides a comprehensive overview of the Adverse Outcome Pathway (AOP) framework, a conceptual tool designed to organize mechanistic biological data for predicting chemical hazards. Tailored for researchers and drug development professionals, it explores the foundational principles of AOPs, detailing their modular structure centered on Molecular Initiating Events (MIEs), Key Events (KEs), and Adverse Outcomes (AOs). The article delves into methodological advances, including the development of quantitative AOP (qAOP) models using systems toxicology and Bayesian networks, and illustrates their application in replacing animal testing and prioritizing endocrine-disrupting chemicals.",
+  "keywords": [
+    "Adverse Outcome Pathway",
+    "AOP",
+    "Quantitative AOP",
+    "qAOP",
+    "Toxicology",
+    "Risk Assessment",
+    "Molecular Initiating Event",
+    "Key Event",
+    "New Approach Methodologies",
+    "OECD"
+  ],
+  "topic": "Toxicology and Chemical Safety Assessment",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257200eef946afea98dd7c",
+  "source_url": "https://www.ecotoxsci.com/posts/ecotoxsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "adverse-outcome-pathways-aop-a-transformative-framework-for-21st-century-toxicology-and-drug-development_20260403.pdf"
+}
