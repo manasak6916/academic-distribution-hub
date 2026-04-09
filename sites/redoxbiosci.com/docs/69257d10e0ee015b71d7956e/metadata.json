@@ -1,0 +1,30 @@
+{
+  "title": "NADPH and NADH: Mastering the Redox Code in Health, Disease, and Therapeutics",
+  "description": "This article provides a comprehensive exploration of the distinct yet interconnected roles of NADPH and NADH in cellular redox biology. It synthesizes foundational knowledge on biosynthesis and core functions, delves into advanced monitoring methodologies, addresses pathological consequences of dysregulation in aging and cancer, and evaluates emerging therapeutic strategies targeting their metabolism. The review serves as a critical resource for navigating redox biology in drug discovery.",
+  "keywords": [
+    "NADPH",
+    "NADH",
+    "Redox Biology",
+    "Oxidative Stress",
+    "NAD+ Biosynthesis",
+    "FLIM",
+    "Genetically Encoded Biosensors",
+    "Cancer Metabolism",
+    "Vascular Aging",
+    "NADPH Oxidases",
+    "Therapeutic Targeting"
+  ],
+  "topic": "Redox Biology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "69257d10e0ee015b71d7956e",
+  "source_url": "https://www.redoxbiosci.com/posts/redoxbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "nadph-and-nadh-mastering-the-redox-code-in-health-disease-and-therapeutics_20260403.pdf"
+}
