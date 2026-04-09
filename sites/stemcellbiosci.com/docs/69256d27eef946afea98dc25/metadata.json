@@ -1,0 +1,27 @@
+{
+  "title": "Comparative Analysis of Stem Cell Biological Signatures: From Foundational Concepts to Clinical Translation",
+  "description": "A comprehensive review of methodologies and findings in the comparative analysis of stem cell biological signatures, covering cellular potency, multi-omics, quality control, and clinical translation.",
+  "keywords": [
+    "stem cells",
+    "biological signatures",
+    "pluripotency",
+    "multi-omics",
+    "cancer stem cells",
+    "mesenchymal stem cells",
+    "cryopreservation",
+    "quality control"
+  ],
+  "topic": "Stem Cell Biology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256d27eef946afea98dc25",
+  "source_url": "https://www.stemcellbiosci.com/posts/stemcellbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "comparative-analysis-of-stem-cell-biological-signatures-from-foundational-concepts-to-clinical-translation_20260403.pdf"
+}
