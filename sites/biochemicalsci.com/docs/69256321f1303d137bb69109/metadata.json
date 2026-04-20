@@ -1,0 +1,29 @@
+{
+  "title": "PCR Mastery: A Comprehensive Guide from Basic Protocol to Advanced Troubleshooting",
+  "description": "A complete guide to the polymerase chain reaction (PCR), covering basic principles, advanced applications, detailed protocols, and systematic troubleshooting strategies for researchers.",
+  "keywords": [
+    "PCR",
+    "DNA polymerase",
+    "qPCR",
+    "dPCR",
+    "primers",
+    "troubleshooting",
+    "amplification",
+    "thermal cycling",
+    "multiplex PCR",
+    "isothermal amplification"
+  ],
+  "topic": "Molecular Biology",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "69256321f1303d137bb69109",
+  "source_url": "https://www.biochemicalsci.com/posts/biochemicalsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "pcr-mastery-a-comprehensive-guide-from-basic-protocol-to-advanced-troubleshooting_20260403.pdf"
+}
