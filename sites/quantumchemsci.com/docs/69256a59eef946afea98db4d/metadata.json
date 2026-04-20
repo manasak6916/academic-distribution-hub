@@ -1,0 +1,31 @@
+{
+  "title": "Quantum Computed Moments: A New Paradigm for Simulating Molecular Properties in Drug Discovery",
+  "description": "This article explores the methodology of quantum computed moments (QCM) for calculating molecular properties, detailing its theory, application to molecular systems, performance optimization, and comparison against benchmarks, highlighting its potential to accelerate pharmaceutical R&D.",
+  "keywords": [
+    "Quantum Computed Moments",
+    "QCM",
+    "Hamiltonian Moments",
+    "Drug Discovery",
+    "Molecular Properties",
+    "Variational Quantum Eigensolver",
+    "VQE",
+    "NISQ",
+    "Error Mitigation",
+    "Lanczos Algorithm",
+    "Computational Chemistry",
+    "Protein-Ligand Binding"
+  ],
+  "topic": "Quantum Computing in Computational Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and pharmaceutical development professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "69256a59eef946afea98db4d",
+  "source_url": "https://www.quantumchemsci.com/posts/quantumchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "quantum-computed-moments-a-new-paradigm-for-simulating-molecular-properties-in-drug-discovery_20260403.pdf"
+}
