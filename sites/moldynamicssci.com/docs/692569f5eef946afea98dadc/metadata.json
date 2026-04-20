@@ -1,0 +1,30 @@
+{
+  "title": "A Practical Guide to Setting Up Molecular Dynamics Simulations for Cyclic Peptides",
+  "description": "This article provides a comprehensive, step-by-step guide for researchers and drug development professionals to set up and run molecular dynamics (MD) simulations for cyclic peptides. Covering everything from fundamental concepts and system preparation with explicit solvent to advanced enhanced sampling techniques and result validation, this guide addresses key challenges in simulating these complex molecules. Readers will learn how to select appropriate force fields, implement methods like GaMD and REMD for efficient conformational sampling, troubleshoot common issues, and correlate simulation data with experimental observables like membrane permeability and LogD to advance therapeutic design.",
+  "keywords": [
+    "molecular dynamics",
+    "cyclic peptides",
+    "enhanced sampling",
+    "force field",
+    "REMD",
+    "GaMD",
+    "BE-META",
+    "membrane permeability",
+    "conformational ensemble",
+    "NMR validation",
+    "drug design"
+  ],
+  "topic": "Computational Chemistry",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692569f5eef946afea98dadc",
+  "source_url": "https://www.moldynamicssci.com/posts/moldynamicssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "a-practical-guide-to-setting-up-molecular-dynamics-simulations-for-cyclic-peptides_20260403.pdf"
+}
