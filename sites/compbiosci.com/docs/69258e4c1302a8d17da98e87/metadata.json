@@ -1,0 +1,29 @@
+{
+  "title": "Computational Biology vs Bioinformatics: A 2025 Guide for Biomedical Researchers",
+  "description": "A comprehensive guide for researchers and drug development professionals on the distinct yet complementary roles of computational biology and bioinformatics, covering definitions, tools, applications in drug discovery, implementation challenges, and future trends including AI and cloud computing.",
+  "keywords": [
+    "bioinformatics",
+    "computational biology",
+    "drug discovery",
+    "genomics",
+    "multi-omics",
+    "AI in biology",
+    "NGS analysis",
+    "molecular dynamics",
+    "reproducible pipelines",
+    "cloud computing"
+  ],
+  "topic": "Computational Life Sciences",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Biomedical Researchers, Drug Development Professionals, Scientists",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "69258e4c1302a8d17da98e87",
+  "source_url": "https://www.compbiosci.com/posts/compbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "computational-biology-vs-bioinformatics-a-2025-guide-for-biomedical-researchers_20260403.pdf"
+}
