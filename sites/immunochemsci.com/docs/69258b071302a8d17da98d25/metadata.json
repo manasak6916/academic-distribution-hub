@@ -1,0 +1,28 @@
+{
+  "title": "Decoding Immunity: Structural Mechanisms and AI-Driven Prediction of Epitope-Paratope Binding",
+  "description": "A comprehensive review of the structural mechanisms governing epitope-paratope binding, highlighting the integration of artificial intelligence and experimental methodologies in therapeutic antibody and vaccine design.",
+  "keywords": [
+    "antibody",
+    "antigen",
+    "epitope",
+    "paratope",
+    "artificial intelligence",
+    "deep learning",
+    "immunoinformatics",
+    "vaccine design",
+    "structural biology"
+  ],
+  "topic": "Immunology and Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69258b071302a8d17da98d25",
+  "source_url": "https://www.immunochemsci.com/posts/immunochemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-immunity-structural-mechanisms-and-ai-driven-prediction-of-epitope-paratope-binding_20260403.pdf"
+}
