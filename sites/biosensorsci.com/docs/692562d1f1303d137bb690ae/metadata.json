@@ -1,0 +1,32 @@
+{
+  "title": "Genetically Encoded FRET Biosensors: Design Principles, Advanced Applications, and Optimization Strategies",
+  "description": "A comprehensive overview of the latest advancements in genetically encoded FRET biosensors, covering fundamental design principles, cutting-edge applications in multiplexed and in vivo imaging, and strategies for optimization and quantitative calibration. This resource is tailored for researchers, scientists, and drug development professionals.",
+  "keywords": [
+    "FRET biosensors",
+    "Förster Resonance Energy Transfer",
+    "fluorescent proteins",
+    "live-cell imaging",
+    "drug discovery",
+    "mechanobiology",
+    "multiplexing",
+    "FLIM-FRET",
+    "optimization",
+    "calibration",
+    "red-shifted biosensors",
+    "chemogenetic biosensors",
+    "kinase activity"
+  ],
+  "topic": "FRET Biosensor Technology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692562d1f1303d137bb690ae",
+  "source_url": "https://www.biosensorsci.com/posts/biosensorsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "genetically-encoded-fret-biosensors-design-principles-advanced-applications-and-optimization-strategies_20260403.pdf"
+}
