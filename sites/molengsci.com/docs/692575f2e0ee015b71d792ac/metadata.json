@@ -1,0 +1,26 @@
+{
+  "title": "Engineering Quantum Mechanics for Molecular Systems: From Theory to Drug Discovery Applications",
+  "description": "A technical guide exploring the integration of quantum computing and advanced simulation techniques for modeling molecular systems in drug discovery and materials science.",
+  "keywords": [
+    "Quantum computing",
+    "molecular simulation",
+    "drug discovery",
+    "Variational Quantum Eigensolver",
+    "hybrid quantum-classical algorithms",
+    "quantum error mitigation",
+    "qubits"
+  ],
+  "topic": "Quantum Computing in Molecular Science",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692575f2e0ee015b71d792ac",
+  "source_url": "https://www.molengsci.com/posts/molengsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "engineering-quantum-mechanics-for-molecular-systems-from-theory-to-drug-discovery-applications_20260403.pdf"
+}
