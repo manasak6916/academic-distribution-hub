@@ -1,0 +1,29 @@
+{
+  "title": "The EC Number System: A Comprehensive Guide for Researchers and Drug Developers",
+  "description": "A comprehensive guide exploring the Enzyme Commission (EC) number system, detailing its hierarchical structure, research applications, computational prediction tools, and role in drug development.",
+  "keywords": [
+    "Enzyme Commission",
+    "EC number",
+    "enzyme classification",
+    "biochemistry",
+    "computational prediction",
+    "drug development",
+    "ExplorEnz",
+    "UniProt",
+    "BRENDA",
+    "metabolic pathway"
+  ],
+  "topic": "Biochemistry and Bioinformatics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "69257224eef946afea98dda2",
+  "source_url": "https://www.enzymestudy.com/posts/enzymestudy.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "the-ec-number-system-a-comprehensive-guide-for-researchers-and-drug-developers_20260403.pdf"
+}
