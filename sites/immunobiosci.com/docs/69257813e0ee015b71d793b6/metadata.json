@@ -1,0 +1,28 @@
+{
+  "title": "Decoding Immune Defense: A Network Analysis Guide to Immune Repertoire Architecture",
+  "description": "A comprehensive guide on applying network analysis to understand the architecture of adaptive immune repertoires, covering experimental methodologies, computational frameworks, and clinical applications.",
+  "keywords": [
+    "AIRR-seq",
+    "Immune Repertoire",
+    "Network Analysis",
+    "Sequence Similarity Networks",
+    "VDJ Recombination",
+    "T-cell Receptor",
+    "B-cell Receptor",
+    "NAIR",
+    "Clonal Diversity"
+  ],
+  "topic": "Immunology and Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257813e0ee015b71d793b6",
+  "source_url": "https://www.immunobiosci.com/posts/immunobiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-immune-defense-a-network-analysis-guide-to-immune-repertoire-architecture_20260403.pdf"
+}
