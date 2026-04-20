@@ -1,0 +1,27 @@
+{
+  "title": "Host Gene Expression Profiling: A New Frontier for Precision Diagnosis of Bacterial Infections",
+  "description": "A technical guide on utilizing host gene expression profiling and machine learning to accurately diagnose bacterial infections and overcome the limitations of traditional pathogen-focused methods.",
+  "keywords": [
+    "host gene expression",
+    "bacterial infection",
+    "transcriptomic signatures",
+    "machine learning",
+    "antimicrobial resistance",
+    "precision diagnostics",
+    "procalcitonin",
+    "biomarkers"
+  ],
+  "topic": "Infectious Disease Diagnostics",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69255f029d9cf8a335d5182c",
+  "source_url": "https://www.bacteriastudy.com/posts/bacteriastudy.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "host-gene-expression-profiling-a-new-frontier-for-precision-diagnosis-of-bacterial-infections_20260403.pdf"
+}
