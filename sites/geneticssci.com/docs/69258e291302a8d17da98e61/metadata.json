@@ -1,0 +1,28 @@
+{
+  "title": "From Association to Action: A Comprehensive Guide to Candidate Gene Discovery in GWAS",
+  "description": "A comprehensive guide detailing the computational and experimental methodologies required to transition from GWAS statistical signals to biologically validated candidate genes.",
+  "keywords": [
+    "GWAS",
+    "candidate gene discovery",
+    "linkage disequilibrium",
+    "fine-mapping",
+    "functional genomics",
+    "CRISPR",
+    "Topologically Associating Domains",
+    "eQTL",
+    "DEPICT"
+  ],
+  "topic": "Genetics and Genomics",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69258e291302a8d17da98e61",
+  "source_url": "https://www.geneticssci.com/posts/geneticssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "from-association-to-action-a-comprehensive-guide-to-candidate-gene-discovery-in-gwas_20260403.pdf"
+}
