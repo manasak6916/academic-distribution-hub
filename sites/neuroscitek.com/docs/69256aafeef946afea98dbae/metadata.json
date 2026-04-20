@@ -1,0 +1,28 @@
+{
+  "title": "Bridging Minds and Machines: How Deep Learning Neural Networks Are Revolutionizing Neuroscience Research and Drug Development",
+  "description": "A comprehensive overview of the transformative role of deep learning neural networks, including SNNs and GNNs, in modern neuroscience research, neuroimaging analysis, and drug development.",
+  "keywords": [
+    "Deep Learning",
+    "Neuroscience",
+    "Drug Development",
+    "Spiking Neural Networks",
+    "Graph Neural Networks",
+    "Neuroimaging",
+    "Explainable AI",
+    "Multimodal Fusion",
+    "High-Throughput Screening"
+  ],
+  "topic": "Computational Neuroscience and AI in Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and pharmaceutical professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256aafeef946afea98dbae",
+  "source_url": "https://www.neuroscitek.com/posts/neuroscitek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "bridging-minds-and-machines-how-deep-learning-neural-networks-are-revolutionizing-neuroscience-research-and-drug-development_20260403.pdf"
+}
