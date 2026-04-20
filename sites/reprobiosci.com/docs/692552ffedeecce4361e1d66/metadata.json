@@ -1,0 +1,29 @@
+{
+  "title": "Single-Cell Sequencing of Ovarian Tissue: From Cellular Atlas to Clinical Translation",
+  "description": "A comprehensive review on the impact of single-cell sequencing technologies on ovarian biology and pathology, covering cellular atlas construction, developmental processes, and disease mechanisms in conditions like ovarian cancer. The article provides insights into methodological advancements, technical challenges, and clinical applications for researchers and drug development professionals.",
+  "keywords": [
+    "single-cell sequencing",
+    "scRNA-seq",
+    "ovarian tissue",
+    "ovarian cancer",
+    "cellular atlas",
+    "folliculogenesis",
+    "PCOS",
+    "spatial transcriptomics",
+    "drug discovery",
+    "biomarker identification"
+  ],
+  "topic": "Ovarian Biology and Pathology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, Scientists, Drug Development Professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692552ffedeecce4361e1d66",
+  "source_url": "https://www.reprobiosci.com/posts/reprobiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "single-cell-sequencing-of-ovarian-tissue-from-cellular-atlas-to-clinical-translation_20260403.pdf"
+}
