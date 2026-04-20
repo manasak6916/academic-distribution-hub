@@ -1,0 +1,28 @@
+{
+  "title": "AI and Quantum Chemistry: Computational Approaches for Mapping Chemical Reaction Mechanisms in Drug Discovery",
+  "description": "A comprehensive guide on integrating artificial intelligence, quantum mechanics, and physical constraints to predict chemical reaction mechanisms and accelerate drug discovery.",
+  "keywords": [
+    "artificial intelligence",
+    "quantum chemistry",
+    "drug discovery",
+    "reaction mechanisms",
+    "machine learning",
+    "FlowER",
+    "multiscale modeling",
+    "active learning",
+    "computational chemistry"
+  ],
+  "topic": "Computational Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69257b58e0ee015b71d794fb",
+  "source_url": "https://www.theochemsci.com/posts/theochemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "ai-and-quantum-chemistry-computational-approaches-for-mapping-chemical-reaction-mechanisms-in-drug-discovery_20260403.pdf"
+}
