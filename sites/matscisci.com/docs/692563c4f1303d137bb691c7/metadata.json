@@ -1,0 +1,29 @@
+{
+  "title": "Protein Expression Troubleshooting Guide: From Low Yields to Validation",
+  "description": "A comprehensive framework for diagnosing and resolving recombinant protein expression challenges, covering expression systems, AI-driven optimization, and validation techniques.",
+  "keywords": [
+    "Protein Expression",
+    "Recombinant Protein",
+    "Troubleshooting",
+    "Escherichia coli",
+    "Mammalian Cells",
+    "Inclusion Bodies",
+    "Codon Optimization",
+    "Western Blot",
+    "ELISA",
+    "Mass Spectrometry"
+  ],
+  "topic": "Biotechnology and Protein Production",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692563c4f1303d137bb691c7",
+  "source_url": "https://www.matscisci.com/posts/matscisci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "protein-expression-troubleshooting-guide-from-low-yields-to-validation_20260331.pdf"
+}
