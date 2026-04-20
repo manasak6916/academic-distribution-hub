@@ -1,0 +1,27 @@
+{
+  "title": "RNA Structure and Dynamics: From Molecular Foundations to Therapeutic Design",
+  "description": "A comprehensive exploration of RNA structure, dynamics, experimental probing techniques, computational modeling, and applications in therapeutic design.",
+  "keywords": [
+    "RNA structure",
+    "conformational dynamics",
+    "deep learning",
+    "molecular dynamics",
+    "therapeutic design",
+    "chemical probing",
+    "drug discovery",
+    "RNA-targeted small molecules"
+  ],
+  "topic": "RNA Structural Biology and Therapeutics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256d66eef946afea98dc6e",
+  "source_url": "https://www.rnabiosci.com/posts/rnabiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "rna-structure-and-dynamics-from-molecular-foundations-to-therapeutic-design_20260403.pdf"
+}
