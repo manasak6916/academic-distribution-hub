@@ -1,0 +1,28 @@
+{
+  "title": "Biophotonics: The Complete Guide to Light-Based Technologies in Biomedicine and Drug Development",
+  "description": "A comprehensive guide on biophotonics, covering light-tissue interactions, bioimaging, biosensing, therapeutic applications, AI integration, and market trends in biomedicine.",
+  "keywords": [
+    "Biophotonics",
+    "Bioimaging",
+    "Biosensing",
+    "Optical Coherence Tomography",
+    "Raman Spectroscopy",
+    "Photodynamic Therapy",
+    "Quantum Dots",
+    "Artificial Intelligence",
+    "Precision Medicine"
+  ],
+  "topic": "Biomedical Optics and Photonics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692588d81302a8d17da98cbe",
+  "source_url": "https://www.bioopticssci.com/posts/bioopticssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "biophotonics-the-complete-guide-to-light-based-technologies-in-biomedicine-and-drug-development_20260403.pdf"
+}
