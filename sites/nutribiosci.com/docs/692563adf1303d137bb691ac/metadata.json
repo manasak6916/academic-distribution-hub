@@ -1,0 +1,29 @@
+{
+  "title": "A Practical Framework for Validating Nutrition-Related Machine Learning Models: From Data to Clinical Deployment",
+  "description": "A comprehensive guide on validating machine learning models in nutrition research, covering data quality, algorithm selection, evaluation metrics, and clinical deployment.",
+  "keywords": [
+    "machine learning",
+    "nutrition research",
+    "model validation",
+    "Dataset Nutrition Label",
+    "XGBoost",
+    "precision nutrition",
+    "hyperparameter optimization",
+    "cross-validation",
+    "accuracy paradox",
+    "clinical deployment"
+  ],
+  "topic": "Machine Learning in Nutrition Science",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692563adf1303d137bb691ac",
+  "source_url": "https://www.nutribiosci.com/posts/nutribiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "a-practical-framework-for-validating-nutrition-related-machine-learning-models-from-data-to-clinical-deployment_20260331.pdf"
+}
