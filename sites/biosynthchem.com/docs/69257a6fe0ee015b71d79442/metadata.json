@@ -1,0 +1,29 @@
+{
+  "title": "Biosynthetic Gene Cluster Identification: From Foundational Concepts to Advanced Applications in Drug Discovery",
+  "description": "This comprehensive review explores the rapidly evolving field of biosynthetic gene cluster (BGC) identification, a cornerstone technology in modern natural product discovery. We examine foundational principles of BGCs as physical clusters of co-regulated genes governing secondary metabolite biosynthesis, which provide the genetic blueprint for countless therapeutics. The article details cutting-edge computational methodologies including genome mining tools, machine learning approaches, and database resources that have revolutionized BGC detection and characterization. We address significant challenges in the field, particularly the activation of silent gene clusters and optimization of heterologous expression systems. Furthermore, we cover advanced validation techniques that connect genetic predictions to chemical structures, highlighting successful applications in discovering novel bioactive compounds with clinical potential. This resource provides researchers, scientists, and drug development professionals with both theoretical knowledge and practical methodologies to advance their natural product discovery pipelines.",
+  "keywords": [
+    "Biosynthetic Gene Cluster",
+    "BGC",
+    "Genome Mining",
+    "Natural Products",
+    "Drug Discovery",
+    "Secondary Metabolites",
+    "antiSMASH",
+    "Heterologous Expression",
+    "Silent Gene Clusters",
+    "MIBiG"
+  ],
+  "topic": "Natural Product Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257a6fe0ee015b71d79442",
+  "source_url": "https://www.biosynthchem.com/posts/biosynthchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "biosynthetic-gene-cluster-identification-from-foundational-concepts-to-advanced-applications-in-drug-discovery_20260403.pdf"
+}
