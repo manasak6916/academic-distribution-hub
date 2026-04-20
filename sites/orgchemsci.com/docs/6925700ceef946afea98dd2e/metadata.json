@@ -1,0 +1,30 @@
+{
+  "title": "Functional Groups in Modern Drug Discovery: From Chemical Foundations to AI-Driven Prediction",
+  "description": "This article provides a comprehensive exploration of functional groups and their pivotal role in determining molecular properties and biological activity, tailored for researchers and drug development professionals. It covers fundamental chemical principles, QSAR modeling, machine learning for property prediction, challenges such as experimental data bias and activity cliffs, and advanced AI frameworks for rational drug design.",
+  "keywords": [
+    "functional groups",
+    "drug discovery",
+    "QSAR",
+    "machine learning",
+    "pharmacophore",
+    "molecular property prediction",
+    "activity cliffs",
+    "data bias",
+    "AI",
+    "computational chemistry",
+    "model validation"
+  ],
+  "topic": "Computational Chemistry and Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "6925700ceef946afea98dd2e",
+  "source_url": "https://www.orgchemsci.com/posts/orgchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "functional-groups-in-modern-drug-discovery-from-chemical-foundations-to-ai-driven-prediction_20260403.pdf"
+}
