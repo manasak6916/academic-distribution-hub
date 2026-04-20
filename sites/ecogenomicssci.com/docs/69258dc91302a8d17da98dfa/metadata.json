@@ -1,0 +1,27 @@
+{
+  "title": "Gene-Environment Interactions in Natural Populations: From Foundational Concepts to Precision Medicine Applications",
+  "description": "A comprehensive synthesis of gene-environment (GxE) interaction research, covering statistical methodologies, multi-omics integration, AI applications, case studies, and ethical implications for precision medicine.",
+  "keywords": [
+    "Gene-environment interaction",
+    "GxE",
+    "Precision medicine",
+    "Epigenetics",
+    "Genome-wide interaction study",
+    "Multi-omics",
+    "Pharmacogenomics",
+    "Artificial intelligence"
+  ],
+  "topic": "Genetics and Precision Medicine",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69258dc91302a8d17da98dfa",
+  "source_url": "https://www.ecogenomicssci.com/posts/ecogenomicssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "gene-environment-interactions-in-natural-populations-from-foundational-concepts-to-precision-medicine-applications_20260403.pdf"
+}
