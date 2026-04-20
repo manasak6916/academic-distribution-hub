@@ -1,0 +1,29 @@
+{
+  "title": "Surface Chemical Analysis: A Guide to Electron & Ion Spectroscopy for Biomedical Research",
+  "description": "A comprehensive overview of surface chemical analysis techniques, including XPS, AES, ToF-SIMS, and MEIS, detailing their principles, protocols, and applications in biomedical research and materials science.",
+  "keywords": [
+    "Surface Chemical Analysis",
+    "Electron Spectroscopy",
+    "Ion Spectroscopy",
+    "XPS",
+    "AES",
+    "ToF-SIMS",
+    "MEIS",
+    "Biomedical Research",
+    "Drug Development",
+    "Machine Learning"
+  ],
+  "topic": "Analytical Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692567b8eef946afea98da8c",
+  "source_url": "https://www.surfchemsci.com/posts/surfchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "surface-chemical-analysis-a-guide-to-electron-ion-spectroscopy-for-biomedical-research_20260403.pdf"
+}
