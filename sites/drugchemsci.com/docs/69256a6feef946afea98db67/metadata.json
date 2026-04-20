@@ -1,0 +1,29 @@
+{
+  "title": "Structure-Activity Relationship (SAR) Studies: A Comprehensive Guide from Foundations to Modern Applications in Drug Discovery",
+  "description": "A comprehensive guide on Structure-Activity Relationship (SAR) studies, covering fundamental principles, QSAR modeling, computational methodologies, ADMET optimization, and validation schemes in drug discovery.",
+  "keywords": [
+    "Structure-Activity Relationship",
+    "SAR",
+    "QSAR",
+    "Drug Discovery",
+    "Medicinal Chemistry",
+    "Machine Learning",
+    "ADMET",
+    "Matched Molecular Pairs",
+    "Activity Cliffs",
+    "Applicability Domain"
+  ],
+  "topic": "Drug Discovery and Medicinal Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a6feef946afea98db67",
+  "source_url": "https://www.drugchemsci.com/posts/drugchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "structure-activity-relationship-sar-studies-a-comprehensive-guide-from-foundations-to-modern-applications-in-drug-discovery_20260403.pdf"
+}
