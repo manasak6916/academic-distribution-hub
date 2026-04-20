@@ -1,0 +1,28 @@
+{
+  "title": "Electrochemical Cell Thermodynamics: Fundamentals, Drug Development Applications, and Optimization Strategies",
+  "description": "A comprehensive guide on electrochemical thermodynamics, detailing fundamental principles, experimental methodologies, and optimization strategies tailored for drug development and pharmaceutical research.",
+  "keywords": [
+    "Electrochemical thermodynamics",
+    "Gibbs free energy",
+    "Nernst equation",
+    "Cyclic voltammetry",
+    "Drug development",
+    "Redox potential",
+    "Faraday constant",
+    "Reactive oxygen species",
+    "Sensor optimization"
+  ],
+  "topic": "Electrochemistry and Pharmaceutical Sciences",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and professionals in drug development",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692590331302a8d17da98ece",
+  "source_url": "https://www.electrochemsci.com/posts/electrochemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "electrochemical-cell-thermodynamics-fundamentals-drug-development-applications-and-optimization-strategies_20260403.pdf"
+}
