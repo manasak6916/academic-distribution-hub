@@ -1,0 +1,32 @@
+{
+  "title": "Decoding Molecular Pathways in Stem Cell Differentiation: From Mechanisms to Therapeutic Applications",
+  "description": "A comprehensive analysis of the molecular pathways governing stem cell differentiation, exploring foundational signaling mechanisms, epigenetic controls, and methodologies for translating research into GMP-compliant cell-based therapies. It covers recent advances in single-cell omics and bioinformatics to bridge the gap between experimental findings and clinical translation in regenerative medicine.",
+  "keywords": [
+    "stem cell differentiation",
+    "signaling pathways",
+    "Wnt",
+    "TGF-β",
+    "epigenetics",
+    "histone modification",
+    "mRNA methylation",
+    "extracellular matrix",
+    "mechanotransduction",
+    "regenerative medicine",
+    "GMP manufacturing",
+    "disease modeling",
+    "single-cell omics"
+  ],
+  "topic": "Stem Cell Biology and Regenerative Medicine",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256d23eef946afea98dc22",
+  "source_url": "https://www.stemcellbiosci.com/posts/stemcellbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-molecular-pathways-in-stem-cell-differentiation-from-mechanisms-to-therapeutic-applications_20260403.pdf"
+}
