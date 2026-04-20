@@ -1,0 +1,29 @@
+{
+  "title": "From Code to Crop: Decoding Plant Genotype-to-Phenotype Relationships for Advanced Research and Drug Discovery",
+  "description": "A comprehensive examination of the methodologies, computational models, and phenotyping technologies used to decode plant genotype-to-phenotype relationships for crop improvement and drug discovery.",
+  "keywords": [
+    "genotype-to-phenotype",
+    "genomic selection",
+    "high-throughput phenotyping",
+    "machine learning",
+    "deep learning",
+    "epistasis",
+    "GxE interaction",
+    "multi-omics",
+    "phenotypic drug discovery",
+    "plant breeding"
+  ],
+  "topic": "Plant Genomics and Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69257b13e0ee015b71d794c9",
+  "source_url": "https://www.plantbiosci.com/posts/plantbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "from-code-to-crop-decoding-plant-genotype-to-phenotype-relationships-for-advanced-research-and-drug-discovery_20260403.pdf"
+}
