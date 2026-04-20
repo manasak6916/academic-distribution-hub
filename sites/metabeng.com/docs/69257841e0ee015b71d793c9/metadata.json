@@ -1,0 +1,29 @@
+{
+  "title": "Flux Balance Analysis for Strain Design: A Comprehensive Guide for Biomedical Researchers",
+  "description": "A comprehensive guide to Flux Balance Analysis (FBA) and its applications in metabolic engineering, strain design, and biomedical research, covering core principles, advanced methodologies, and multi-omics integration.",
+  "keywords": [
+    "Flux Balance Analysis",
+    "FBA",
+    "Strain Design",
+    "Metabolic Engineering",
+    "Systems Biology",
+    "Constraint-Based Modeling",
+    "Genome-Scale Metabolic Models",
+    "Linear Programming",
+    "Dynamic FBA",
+    "Multi-Omics Integration"
+  ],
+  "topic": "Systems Biology and Metabolic Engineering",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Biomedical researchers, metabolic engineers, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257841e0ee015b71d793c9",
+  "source_url": "https://www.metabeng.com/posts/metabeng.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "flux-balance-analysis-for-strain-design-a-comprehensive-guide-for-biomedical-researchers_20260403.pdf"
+}
