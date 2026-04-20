@@ -1,0 +1,27 @@
+{
+  "title": "Protein Language Models: How Transformer Architectures Are Revolutionizing Drug Discovery and Bioinformatics",
+  "description": "A comprehensive overview of Protein Language Models, exploring their Transformer-based architectures, training methodologies, and applications in drug discovery, structure prediction, and protein engineering.",
+  "keywords": [
+    "Protein Language Models",
+    "Transformer Architectures",
+    "Drug Discovery",
+    "Bioinformatics",
+    "Protein Engineering",
+    "AlphaFold",
+    "ESM",
+    "Deep Learning"
+  ],
+  "topic": "Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257a64e0ee015b71d79435",
+  "source_url": "https://www.proteineng.com/posts/proteineng.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "protein-language-models-how-transformer-architectures-are-revolutionizing-drug-discovery-and-bioinformatics_20260403.pdf"
+}
