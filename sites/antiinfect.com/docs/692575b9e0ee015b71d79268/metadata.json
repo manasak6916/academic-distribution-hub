@@ -1,0 +1,30 @@
+{
+  "title": "Optimizing Novel Anti-Infective Agents: A PK/PD and Pharmacometric Framework for Modern Drug Development",
+  "description": "This article provides a comprehensive analysis of the pharmacokinetic (PK) and pharmacodynamic (PD) properties underpinning the development of novel anti-infective agents. Tailored for researchers and drug development professionals, it synthesizes foundational PK/PD principles with advanced methodological applications like pharmacometric modeling and simulation. The content further addresses critical challenges in dose optimization for special populations and combating resistance, validated by current pipeline analyses and real-world case studies. By integrating exploratory, methodological, troubleshooting, and validation intents, this review serves as a strategic guide for optimizing anti-infective therapy from preclinical stages to clinical application, aiming to enhance efficacy and curb antimicrobial resistance.",
+  "keywords": [
+    "Pharmacokinetics",
+    "Pharmacodynamics",
+    "PK/PD",
+    "Anti-Infective Agents",
+    "Antimicrobial Resistance",
+    "Dose Optimization",
+    "Pharmacometrics",
+    "Therapeutic Drug Monitoring",
+    "Minimum Inhibitory Concentration",
+    "Hollow Fiber Infection Model",
+    "Mutant Selection Window"
+  ],
+  "topic": "Anti-Infective Drug Development",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692575b9e0ee015b71d79268",
+  "source_url": "https://www.antiinfect.com/posts/antiinfect.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "optimizing-novel-anti-infective-agents-a-pk-pd-and-pharmacometric-framework-for-modern-drug-development_20260403.pdf"
+}
