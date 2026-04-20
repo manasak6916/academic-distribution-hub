@@ -1,0 +1,28 @@
+{
+  "title": "Somatic Cell Molecular Evolution: From Foundational Mechanisms to Clinical Applications in Disease and Aging",
+  "description": "A comprehensive analysis of the molecular mechanisms driving somatic cell evolution, exploring its implications for cancer, aging, and regenerative medicine, alongside advanced methodologies like NanoSeq and single-cell multi-omics.",
+  "keywords": [
+    "somatic evolution",
+    "clonal hematopoiesis",
+    "aging",
+    "cancer biology",
+    "NanoSeq",
+    "single-cell multi-omics",
+    "epigenetic reprogramming",
+    "induced pluripotent stem cells",
+    "somatic cell nuclear transfer"
+  ],
+  "topic": "Molecular Biology and Genetics",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "6925628af1303d137bb6905f",
+  "source_url": "https://www.molevosci.com/posts/molevosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "somatic-cell-molecular-evolution-from-foundational-mechanisms-to-clinical-applications-in-disease-and-aging_20260403.pdf"
+}
