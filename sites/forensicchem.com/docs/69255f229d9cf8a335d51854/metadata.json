@@ -1,0 +1,31 @@
+{
+  "title": "Advanced Chemical Methods for Explosives Detection and Analysis: From Foundational Principles to AI-Driven Innovations",
+  "description": "A comprehensive review of the current state and emerging trends in the chemistry of explosives detection and analysis, exploring the fundamental chemistry of explosives, advanced methodological approaches like spectrometry and spectroscopy, critical challenges in real-world application, and the transformative role of artificial intelligence in enhancing detection sensitivity, speed, and accuracy.",
+  "keywords": [
+    "explosives detection",
+    "analytical chemistry",
+    "mass spectrometry",
+    "ion mobility spectrometry",
+    "Raman spectroscopy",
+    "fluorescence quenching",
+    "chemometrics",
+    "machine learning",
+    "post-blast analysis",
+    "RDX",
+    "TNT",
+    "PETN"
+  ],
+  "topic": "Explosives Detection Chemistry",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and scientists in analytical chemistry and security fields",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69255f229d9cf8a335d51854",
+  "source_url": "https://www.forensicchem.com/posts/forensicchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "advanced-chemical-methods-for-explosives-detection-and-analysis-from-foundational-principles-to-ai-driven-innovations_20260403.pdf"
+}
