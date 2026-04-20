@@ -1,0 +1,26 @@
+{
+  "title": "Network Analysis in Systems Biology: From Foundations to Biomedical Applications",
+  "description": "A comprehensive guide to network analysis methodologies, multi-omics integration, and computational modeling in systems biology and drug discovery.",
+  "keywords": [
+    "Systems Biology",
+    "Network Analysis",
+    "Drug Discovery",
+    "Multi-omics Integration",
+    "Graph Neural Networks",
+    "Network Pharmacology",
+    "Protein-Protein Interactions"
+  ],
+  "topic": "Systems Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69257018eef946afea98dd3a",
+  "source_url": "https://www.sysbiosci.com/posts/sysbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "network-analysis-in-systems-biology-from-foundations-to-biomedical-applications_20260403.pdf"
+}
