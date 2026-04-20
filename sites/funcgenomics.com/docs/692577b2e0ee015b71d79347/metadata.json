@@ -1,0 +1,30 @@
+{
+  "title": "Structural Genomics vs Functional Genomics: A Comprehensive Guide for Research and Drug Development",
+  "description": "A detailed comparison between structural genomics, which focuses on determining the three-dimensional structures of proteins, and functional genomics, which investigates the dynamic functions and interactions of genes. The article explores their principles, high-throughput methodologies, applications in biomedicine and agriculture, and challenges, offering a strategic framework for optimizing genomic approaches in therapeutic development.",
+  "keywords": [
+    "structural genomics",
+    "functional genomics",
+    "protein structure",
+    "gene function",
+    "drug discovery",
+    "CRISPR",
+    "X-ray crystallography",
+    "RNA-Seq",
+    "multi-omics",
+    "target identification",
+    "genome editing"
+  ],
+  "topic": "Genomics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692577b2e0ee015b71d79347",
+  "source_url": "https://www.funcgenomics.com/posts/funcgenomics.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "structural-genomics-vs-functional-genomics-a-comprehensive-guide-for-research-and-drug-development_20260403.pdf"
+}
