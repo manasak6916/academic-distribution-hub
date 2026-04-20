@@ -1,0 +1,29 @@
+{
+  "title": "Decoding Flavor: Molecular Mechanisms, Advanced Analytics, and Clinical Applications in Sensory Perception",
+  "description": "A comprehensive analysis of the molecular basis of food sensory perception, exploring biological pathways, flavoromics, sensory evaluation methods, and AI-driven flavor prediction.",
+  "keywords": [
+    "Flavoromics",
+    "Sensory Perception",
+    "Taste Receptors",
+    "Olfactory Receptors",
+    "Analytical Chemistry",
+    "GC-MS",
+    "LC-HRMS",
+    "NMR Spectroscopy",
+    "Electronic Sensors",
+    "Machine Learning"
+  ],
+  "topic": "Sensory Science and Flavoromics",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69256f37eef946afea98dcbb",
+  "source_url": "https://www.foodchemsci.com/posts/foodchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-flavor-molecular-mechanisms-advanced-analytics-and-clinical-applications-in-sensory-perception_20260403.pdf"
+}
