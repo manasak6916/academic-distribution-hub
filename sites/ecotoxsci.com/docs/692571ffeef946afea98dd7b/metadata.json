@@ -1,0 +1,27 @@
+{
+  "title": "ECOTOX Knowledgebase: A Comprehensive Guide for Environmental Researchers and Drug Development Professionals",
+  "description": "A comprehensive guide to the EPA ECOTOX Knowledgebase, detailing its core concepts, data curation methodologies, search functionalities, and applications in ecological risk assessment and New Approach Methodologies.",
+  "keywords": [
+    "ECOTOX",
+    "ecotoxicology",
+    "ecological risk assessment",
+    "New Approach Methodologies",
+    "NAMs",
+    "computational toxicology",
+    "QSAR",
+    "CompTox Chemicals Dashboard"
+  ],
+  "topic": "Environmental Toxicology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Environmental researchers, risk assessors, decision-makers, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692571ffeef946afea98dd7b",
+  "source_url": "https://www.ecotoxsci.com/posts/ecotoxsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "ecotox-knowledgebase-a-comprehensive-guide-for-environmental-researchers-and-drug-development-professionals_20260403.pdf"
+}
