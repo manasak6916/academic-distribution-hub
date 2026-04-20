@@ -1,0 +1,27 @@
+{
+  "title": "Computational Spectroscopy: Bridging Theory and Experiment for Drug Discovery and Biomolecular Analysis",
+  "description": "A comprehensive guide exploring the integration of computational models, quantum chemistry, and machine learning with experimental spectroscopy to accelerate drug discovery and biomolecular analysis.",
+  "keywords": [
+    "Computational Spectroscopy",
+    "Quantum Chemistry",
+    "Machine Learning",
+    "Density Functional Theory",
+    "Drug Discovery",
+    "Molecular Optimization",
+    "SpectrumBench",
+    "Artificial Intelligence"
+  ],
+  "topic": "Computational Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Scientists, researchers, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692567a2eef946afea98da72",
+  "source_url": "https://www.theochemtek.com/posts/theochemtek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "computational-spectroscopy-bridging-theory-and-experiment-for-drug-discovery-and-biomolecular-analysis_20260403.pdf"
+}
