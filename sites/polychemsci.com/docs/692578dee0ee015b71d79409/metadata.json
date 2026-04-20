@@ -1,0 +1,29 @@
+{
+  "title": "Glass Transition Temperature (Tg) Explained: A Foundational Guide for Biomedical Researchers",
+  "description": "This article provides a comprehensive exploration of the glass transition temperature (Tg), a critical thermal property of amorphous materials, with a specific focus on applications in pharmaceutical and drug development research. It covers the foundational science behind Tg, including its definition and the distinction between amorphous and semi-crystalline polymers. The content details the methodologies for accurate Tg measurement, such as DSC and DMA, and addresses common challenges like burst release in PLGA-based drug delivery systems. Furthermore, it offers guidance on troubleshooting measurement discrepancies and validates findings through comparative analysis of material data, equipping scientists with the knowledge to optimize material selection and processing for advanced biomedical applications.",
+  "keywords": [
+    "Glass Transition Temperature (Tg)",
+    "Amorphous Polymers",
+    "Semi-Crystalline Polymers",
+    "Differential Scanning Calorimetry (DSC)",
+    "Dynamic Mechanical Analysis (DMA)",
+    "Drug Delivery",
+    "PLGA",
+    "Formulation Stability",
+    "Burst Release",
+    "Thermal Analysis"
+  ],
+  "topic": "Material Science",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Biomedical Researchers",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692578dee0ee015b71d79409",
+  "source_url": "https://www.polychemsci.com/posts/polychemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "glass-transition-temperature-tg-explained-a-foundational-guide-for-biomedical-researchers_20260403.pdf"
+}
