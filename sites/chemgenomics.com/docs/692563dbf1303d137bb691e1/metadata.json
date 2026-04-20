@@ -1,0 +1,29 @@
+{
+  "title": "Chemical Biology Approaches for Target Validation: Current Strategies and Future Directions in Drug Discovery",
+  "description": "A comprehensive overview of modern chemical biology approaches, methodologies, and frameworks for rigorous target validation in drug discovery.",
+  "keywords": [
+    "target validation",
+    "chemical biology",
+    "drug discovery",
+    "chemical probes",
+    "chemoproteomics",
+    "CETSA",
+    "ABPP",
+    "affinity purification",
+    "phenotypic screening",
+    "pharmacodynamics"
+  ],
+  "topic": "Chemical Biology and Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692563dbf1303d137bb691e1",
+  "source_url": "https://www.chemgenomics.com/posts/chemgenomics.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "chemical-biology-approaches-for-target-validation-current-strategies-and-future-directions-in-drug-discovery_20260403.pdf"
+}
