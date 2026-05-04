@@ -1,0 +1,27 @@
+{
+  "title": "Machine Learning for Materials Discovery and Prediction: Accelerating Innovation in Drug Development and Beyond",
+  "description": "A comprehensive overview of the role of Machine Learning and AI in materials discovery and drug development, detailing algorithms, automated laboratories, and experimental protocols.",
+  "keywords": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Materials Discovery",
+    "Drug Development",
+    "Deep Learning",
+    "Generative Models",
+    "Autonomous Laboratories",
+    "Active Learning"
+  ],
+  "topic": "Materials Science and Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692563c2f1303d137bb691c5",
+  "source_url": "https://www.matscisci.com/posts/matscisci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "machine-learning-for-materials-discovery-and-prediction-accelerating-innovation-in-drug-development-and-beyond_20260331.pdf"
+}
