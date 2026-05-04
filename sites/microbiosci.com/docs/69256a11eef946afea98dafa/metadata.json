@@ -1,0 +1,30 @@
+{
+  "title": "Microbiological Differential Media: A Comprehensive Guide for Clinical Researchers and Drug Development",
+  "description": "This guide provides researchers, scientists, and drug development professionals with a comprehensive framework for leveraging microbiological differential media. It covers foundational principles, from the historical development of culture media to core mechanisms of bacterial differentiation. The article details practical methodologies and clinical applications, illustrated with real-world case studies, and offers expert troubleshooting for common optimization challenges. Furthermore, it presents a critical validation of differential media against modern molecular techniques, highlighting their enduring value and cost-effectiveness in clinical diagnostics and biomedical research for the isolation and identification of pathogenic organisms.",
+  "keywords": [
+    "differential media",
+    "selective media",
+    "microbiological culture",
+    "colony morphology",
+    "MacConkey agar",
+    "Blood agar",
+    "Mannitol salt agar",
+    "chromogenic media",
+    "bacterial identification",
+    "culturomics",
+    "metagenomics"
+  ],
+  "topic": "Microbiological Culture Media",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a11eef946afea98dafa",
+  "source_url": "https://www.microbiosci.com/posts/microbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "microbiological-differential-media-a-comprehensive-guide-for-clinical-researchers-and-drug-development_20260331.pdf"
+}
