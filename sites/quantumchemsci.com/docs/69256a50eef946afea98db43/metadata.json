@@ -1,0 +1,29 @@
+{
+  "title": "Quantum Mechanics of Chemical Bonding: From Fundamental Theory to Advanced Drug Discovery Applications",
+  "description": "A comprehensive review of the quantum mechanical principles of chemical bonding, computational methodologies like DFT and QM/MM, and their applications in drug discovery and molecular design.",
+  "keywords": [
+    "Quantum Mechanics",
+    "Chemical Bonding",
+    "Valence Bond Theory",
+    "Molecular Orbital Theory",
+    "Density Functional Theory",
+    "QM/MM",
+    "Drug Discovery",
+    "Energy Decomposition Analysis",
+    "Charge-Shift Bonding",
+    "Pauli Exclusion Principle"
+  ],
+  "topic": "Quantum Chemistry and Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, computational chemists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a50eef946afea98db43",
+  "source_url": "https://www.quantumchemsci.com/posts/quantumchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "quantum-mechanics-of-chemical-bonding-from-fundamental-theory-to-advanced-drug-discovery-applications_20260331.pdf"
+}
