@@ -1,0 +1,27 @@
+{
+  "title": "Plant Responses to Space Environmental Factors in BLSS: From Molecular Mechanisms to Pharmaceutical Applications",
+  "description": "A comprehensive review of plant physiological, molecular, and developmental responses to space environments within Bioregenerative Life Support Systems, highlighting adaptation mechanisms and molecular pharming.",
+  "keywords": [
+    "Bioregenerative Life Support Systems",
+    "microgravity",
+    "space radiation",
+    "gravitropism",
+    "molecular pharming",
+    "space agriculture",
+    "epigenetic modifications",
+    "DNA damage response"
+  ],
+  "topic": "Space Plant Biology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69255f669d9cf8a335d5189f",
+  "source_url": "https://www.plantscitek.com/posts/plantscitek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "plant-responses-to-space-environmental-factors-in-blss-from-molecular-mechanisms-to-pharmaceutical-applications_20260331.pdf"
+}
