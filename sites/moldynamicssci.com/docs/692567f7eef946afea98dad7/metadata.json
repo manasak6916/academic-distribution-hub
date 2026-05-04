@@ -1,0 +1,30 @@
+{
+  "title": "Force Fields in Molecular Dynamics: The Engine of Accurate Biomolecular Simulation and Drug Discovery",
+  "description": "A comprehensive overview of the role, development, and application of force fields in Molecular Dynamics (MD) simulations, covering foundational concepts, major force field families (AMBER, CHARMM, OPLS), and advanced methodologies including polarizable and machine learning models for applications in drug discovery and materials science.",
+  "keywords": [
+    "Molecular Dynamics",
+    "Force Field",
+    "Drug Discovery",
+    "Biomolecular Simulation",
+    "AMBER",
+    "CHARMM",
+    "OPLS",
+    "Machine Learning Force Fields",
+    "Polarizable Force Fields",
+    "Binding Free Energy",
+    "Enhanced Sampling"
+  ],
+  "topic": "Computational Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, Computational Chemists, Drug Development Professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "692567f7eef946afea98dad7",
+  "source_url": "https://www.moldynamicssci.com/posts/moldynamicssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "force-fields-in-molecular-dynamics-the-engine-of-accurate-biomolecular-simulation-and-drug-discovery_20260331.pdf"
+}
