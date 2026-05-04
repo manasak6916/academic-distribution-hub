@@ -1,0 +1,30 @@
+{
+  "title": "Nutri-Metabolomics: Decoding Diet-Host Interactions for Precision Nutrition and Drug Development",
+  "description": "This article provides a comprehensive overview for researchers, scientists, and drug development professionals, exploring the foundational principles of how food intake shapes the metabolome. It delves into the critical methodological approaches—untargeted versus targeted strategies—and their applications in discovering dietary biomarkers and elucidating metabolic pathways in conditions like metabolic syndrome.",
+  "keywords": [
+    "nutri-metabolomics",
+    "metabolomics",
+    "precision nutrition",
+    "dietary biomarkers",
+    "mass spectrometry",
+    "NMR",
+    "metabolic syndrome",
+    "gut microbiome",
+    "multi-omics",
+    "DASH diet",
+    "NAFLD"
+  ],
+  "topic": "Nutri-Metabolomics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69256397f1303d137bb69191",
+  "source_url": "https://www.nutribiosci.com/posts/nutribiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "nutri-metabolomics-decoding-diet-host-interactions-for-precision-nutrition-and-drug-development_20260403.pdf"
+}
