@@ -1,0 +1,30 @@
+{
+  "title": "Decoding the Genomic Landscape of Premature Ovarian Insufficiency: From Mechanisms to Targeted Therapies",
+  "description": "A synthesis of the latest genomic discoveries in Premature Ovarian Insufficiency (POI), leveraging large-scale sequencing and association studies that have identified over 90 genes. The review explores foundational genetic concepts, advanced methodologies like Mendelian randomization and single-cell multi-omics for identifying novel drug targets, and addresses challenges of genetic heterogeneity. It provides a comprehensive resource for understanding the molecular etiology of POI and outlines a translational roadmap for developing targeted interventions.",
+  "keywords": [
+    "Premature Ovarian Insufficiency (POI)",
+    "Genomics",
+    "Whole-Exome Sequencing (WES)",
+    "GWAS",
+    "Monogenic",
+    "Oligogenic",
+    "DNA Repair",
+    "Meiosis",
+    "Targeted Therapy",
+    "Mendelian Randomization",
+    "Biomarkers"
+  ],
+  "topic": "Reproductive Genetics",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692552ebedeecce4361e1d63",
+  "source_url": "https://www.reprobiosci.com/posts/reprobiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-the-genomic-landscape-of-premature-ovarian-insufficiency-from-mechanisms-to-targeted-therapies_20260403.pdf"
+}
