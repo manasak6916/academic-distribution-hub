@@ -1,0 +1,28 @@
+{
+  "title": "Molecular Phylogenetics and the Tree of Life: From Genomic Data to Biomedical Applications",
+  "description": "A comprehensive overview of molecular phylogenetics, exploring core principles, computational tools, and biomedical applications such as drug discovery and pathogen tracking.",
+  "keywords": [
+    "Molecular Phylogenetics",
+    "Tree of Life",
+    "Phylogenomics",
+    "Molecular Clock",
+    "Supertree Construction",
+    "Drug Discovery",
+    "Antimicrobial Resistance",
+    "Phylodynamics",
+    "Comparative Genomics"
+  ],
+  "topic": "Evolutionary Biology and Bioinformatics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256289f1303d137bb6905c",
+  "source_url": "https://www.molevosci.com/posts/molevosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "molecular-phylogenetics-and-the-tree-of-life-from-genomic-data-to-biomedical-applications_20260331.pdf"
+}
