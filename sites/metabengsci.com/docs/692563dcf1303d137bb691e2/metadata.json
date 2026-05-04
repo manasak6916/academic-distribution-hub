@@ -1,0 +1,28 @@
+{
+  "title": "Accelerating Bioprocesses: The DBTL Cycle in Modern Metabolic Engineering",
+  "description": "A comprehensive guide on the Design-Build-Test-Learn (DBTL) cycle in metabolic engineering, detailing its phases, automation, machine learning integration, and the emerging LDBT paradigm.",
+  "keywords": [
+    "DBTL cycle",
+    "metabolic engineering",
+    "synthetic biology",
+    "machine learning",
+    "biofoundries",
+    "combinatorial optimization",
+    "cell-free protein synthesis",
+    "LDBT paradigm",
+    "microbial cell factories"
+  ],
+  "topic": "Metabolic Engineering",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692563dcf1303d137bb691e2",
+  "source_url": "https://www.metabengsci.com/posts/metabengsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "accelerating-bioprocesses-the-dbtl-cycle-in-modern-metabolic-engineering_20260331.pdf"
+}
