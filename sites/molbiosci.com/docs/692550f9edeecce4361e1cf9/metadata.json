@@ -1,0 +1,30 @@
+{
+  "title": "UHPLC-MS/MS Lipidomics in Metabolic Disease: Unraveling Lipid Pathways in Diabetes and Hyperuricemia",
+  "description": "This article details the application of Ultra-High-Performance Liquid Chromatography-Tandem Mass Spectrometry (UHPLC-MS/MS) lipidomics to investigate diabetes mellitus (DM) and hyperuricemia (HUA). It identifies distinct lipid profiles, including upregulated triglycerides, phosphatidylethanolamines, and phosphatidylcholines, and highlights the disruption of glycerophospholipid and glycerolipid metabolism pathways. The guide provides a framework for researchers, covering methodology, data analysis, and biomarker validation to aid in the discovery of new therapeutic targets.",
+  "keywords": [
+    "Lipidomics",
+    "UHPLC-MS/MS",
+    "Diabetes Mellitus",
+    "Hyperuricemia",
+    "Metabolic Disease",
+    "Glycerophospholipid Metabolism",
+    "Glycerolipid Metabolism",
+    "Biomarker Discovery",
+    "Triglycerides",
+    "Phosphatidylcholines",
+    "Phosphatidylethanolamines"
+  ],
+  "topic": "Metabolic Disease Research",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, Drug Development Professionals, Clinicians",
+  "quality_score": 95,
+  "confidence": 1.0,
+  "doc_id": "692550f9edeecce4361e1cf9",
+  "source_url": "https://www.molbiosci.com/posts/molbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "uhplc-ms-ms-lipidomics-in-metabolic-disease-unraveling-lipid-pathways-in-diabetes-and-hyperuricemia_20260331.pdf"
+}
