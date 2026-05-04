@@ -1,0 +1,31 @@
+{
+  "title": "Navigating Drug-Like Space: The Central Role of Physicochemical Properties in Modern Drug Design",
+  "description": "This article provides a comprehensive overview of the critical role physicochemical properties play in the entire drug discovery and development pipeline. It explores foundational principles of 'drug-likeness,' examines cutting-edge computational and experimental methodologies for property optimization, addresses common troubleshooting scenarios, and validates strategies through comparative analysis of successful drug candidates.",
+  "keywords": [
+    "drug design",
+    "physicochemical properties",
+    "drug-likeness",
+    "ADMET",
+    "Lipinski's Rule of Five",
+    "QSAR",
+    "QSPR",
+    "lead optimization",
+    "solubility",
+    "lipophilicity",
+    "formulation",
+    "molecular obesity"
+  ],
+  "topic": "Drug Discovery and Development",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69256a6deef946afea98db64",
+  "source_url": "https://www.drugchemsci.com/posts/drugchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "navigating-drug-like-space-the-central-role-of-physicochemical-properties-in-modern-drug-design_20260331.pdf"
+}
