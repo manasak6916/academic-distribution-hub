@@ -1,0 +1,30 @@
+{
+  "title": "Endocrine-Disrupting Chemicals and Reproductive Health: Mechanisms, Methodologies, and Biomedical Implications",
+  "description": "This article synthesizes the current scientific evidence on the impact of endocrine-disrupting chemicals (EDCs) on human reproductive health, tailored for researchers, scientists, and drug development professionals. It explores the foundational mechanisms by which EDCs like bisphenols, phthalates, and PFAS interfere with hormonal signaling, particularly during critical developmental windows. The review further examines methodological approaches for assessing exposure and effect, troubleshoots challenges in regulatory science and mixture toxicology, and validates findings through epidemiological and transgenerational studies. The conclusion underscores the significant public health burden and outlines urgent directions for future research, regulatory policy, and therapeutic intervention.",
+  "keywords": [
+    "Endocrine-Disrupting Chemicals (EDCs)",
+    "Reproductive Health",
+    "Bisphenol A (BPA)",
+    "Phthalates",
+    "PFAS",
+    "Hormone Signaling",
+    "Epigenetics",
+    "Non-Monotonic Dose Response",
+    "Mixture Effects",
+    "Cumulative Risk Assessment",
+    "Tox21"
+  ],
+  "topic": "Reproductive Toxicology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69255f7b9d9cf8a335d518b7",
+  "source_url": "https://www.hormoneres.com/posts/hormoneres.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "endocrine-disrupting-chemicals-and-reproductive-health-mechanisms-methodologies-and-biomedical-implications_20260331.pdf"
+}
