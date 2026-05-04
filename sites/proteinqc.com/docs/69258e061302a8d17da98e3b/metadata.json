@@ -1,0 +1,31 @@
+{
+  "title": "Hsp70 and Hsp60 Chaperone Mechanisms: Orchestrating Proteostasis in Health and Disease",
+  "description": "This article provides a comprehensive analysis of the structural and functional mechanisms of Hsp70 and Hsp60 molecular chaperones in maintaining cellular proteostasis. It explores their ATP-dependent allosteric regulation, cooperation with co-chaperones, and dysregulation in human pathologies like cancer and neurodegenerative diseases. The review also covers advanced research methodologies and emerging therapeutic strategies that target these chaperone networks.",
+  "keywords": [
+    "Hsp70",
+    "Hsp60",
+    "proteostasis",
+    "molecular chaperones",
+    "allosteric regulation",
+    "ATP hydrolysis",
+    "cancer",
+    "neurodegeneration",
+    "therapeutic targeting",
+    "small-molecule inhibitors",
+    "epichaperome",
+    "protein-protein interactions"
+  ],
+  "topic": "Molecular Chaperones and Proteostasis",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69258e061302a8d17da98e3b",
+  "source_url": "https://www.proteinqc.com/posts/proteinqc.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "hsp70-and-hsp60-chaperone-mechanisms-orchestrating-proteostasis-in-health-and-disease_20260403.pdf"
+}
