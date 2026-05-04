@@ -1,0 +1,31 @@
+{
+  "title": "Patient-Specific Disease Modeling with hiPSCs: From Mechanisms to Clinical Translation",
+  "description": "A comprehensive overview of human induced pluripotent stem cell (hiPSC) technology, covering molecular reprogramming mechanisms, differentiation protocols, applications in modeling neurodegenerative, cardiovascular, and other disorders, key challenges, and the translation of hiPSC-based models to clinical applications.",
+  "keywords": [
+    "human induced pluripotent stem cells",
+    "hiPSC",
+    "disease modeling",
+    "somatic cell reprogramming",
+    "Yamanaka factors",
+    "cardiomyocytes",
+    "neurons",
+    "drug screening",
+    "regenerative medicine",
+    "genomic stability",
+    "CRISPR-Cas9",
+    "organoids"
+  ],
+  "topic": "Stem Cell Technology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Biomedical Researchers",
+  "quality_score": 95,
+  "confidence": 1.0,
+  "doc_id": "69255c422f6a387fb30da9e6",
+  "source_url": "https://www.regenmedsci.com/posts/regenmedsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "patient-specific-disease-modeling-with-hipscs-from-mechanisms-to-clinical-translation_20260331.pdf"
+}
