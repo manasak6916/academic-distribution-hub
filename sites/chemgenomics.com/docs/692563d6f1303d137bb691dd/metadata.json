@@ -1,0 +1,27 @@
+{
+  "title": "SAR Matrix Analysis: From Ligand-Target Predictions to Accelerated Drug Discovery",
+  "description": "A comprehensive technical guide on SAR matrix analysis, ligand-target prediction methods, polypharmacology, and advanced computational frameworks for modern drug discovery.",
+  "keywords": [
+    "SAR Matrix",
+    "Ligand-Target Prediction",
+    "Polypharmacology",
+    "DeepSARM",
+    "Proteochemometric Modeling",
+    "Virtual Screening",
+    "Drug Discovery",
+    "Machine Learning"
+  ],
+  "topic": "Computational Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "692563d6f1303d137bb691dd",
+  "source_url": "https://www.chemgenomics.com/posts/chemgenomics.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "sar-matrix-analysis-from-ligand-target-predictions-to-accelerated-drug-discovery_20260331.pdf"
+}
