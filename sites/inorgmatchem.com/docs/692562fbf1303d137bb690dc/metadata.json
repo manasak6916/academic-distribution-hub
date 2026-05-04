@@ -1,0 +1,29 @@
+{
+  "title": "Unlocking Materials Discovery: A Comprehensive Guide to High-Throughput Experimental Databases",
+  "description": "This article explores High-Throughput Experimental Materials (HTEM) Databases, powerful resources transforming materials science by providing large-scale, publicly accessible experimental data. It covers foundational concepts, data access methodologies, challenges in data veracity and standardization, and their integration with computational efforts to accelerate materials-driven innovation.",
+  "keywords": [
+    "High-Throughput Experimentation",
+    "HTEM",
+    "Materials Database",
+    "Materials Discovery",
+    "Machine Learning",
+    "Data-Driven Science",
+    "Research Data Infrastructure",
+    "Combinatorial Materials Science",
+    "NREL",
+    "Thin-Film Materials"
+  ],
+  "topic": "Materials Informatics",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 1.0,
+  "doc_id": "692562fbf1303d137bb690dc",
+  "source_url": "https://www.inorgmatchem.com/posts/inorgmatchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "unlocking-materials-discovery-a-comprehensive-guide-to-high-throughput-experimental-databases_20260331.pdf"
+}
