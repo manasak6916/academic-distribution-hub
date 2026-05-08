@@ -1,0 +1,27 @@
+{
+  "title": "Plant Biosystems Design: Foundational Principles, Methodologies, and Applications for Advanced Research",
+  "description": "A comprehensive guide on plant biosystems design, detailing theoretical frameworks, computational methodologies, and experimental applications for predictive plant engineering.",
+  "keywords": [
+    "Plant Biosystems Design",
+    "Mechanistic Modeling",
+    "Graph Theory",
+    "Evolutionary Dynamics",
+    "Genome Editing",
+    "Multi-Omics",
+    "Metabolic Engineering",
+    "Synthetic Biology"
+  ],
+  "topic": "Plant Synthetic Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 100,
+  "confidence": 1.0,
+  "doc_id": "69255f659d9cf8a335d5189e",
+  "source_url": "https://www.plantscitek.com/posts/plantscitek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "plant-biosystems-design-foundational-principles-methodologies-and-applications-for-advanced-research_20260331.pdf"
+}
