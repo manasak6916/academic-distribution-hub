@@ -1,0 +1,28 @@
+{
+  "title": "Coupled-Cluster Methods: The Gold Standard for Accurate Molecular Energy Prediction in Drug Discovery",
+  "description": "A comprehensive overview of coupled-cluster methods, their theoretical foundations, computational challenges, and recent advancements like machine learning potentials and local approximations for drug discovery.",
+  "keywords": [
+    "Coupled-Cluster Theory",
+    "CCSD(T)",
+    "Quantum Chemistry",
+    "Molecular Energy Prediction",
+    "Exponential Ansatz",
+    "Machine Learning Potentials",
+    "Drug Discovery",
+    "Computational Chemistry",
+    "Size-Extensivity"
+  ],
+  "topic": "Quantum Chemistry",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "6925679eeef946afea98da6d",
+  "source_url": "https://www.theochemtek.com/posts/theochemtek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "coupled-cluster-methods-the-gold-standard-for-accurate-molecular-energy-prediction-in-drug-discovery_20260331.pdf"
+}
