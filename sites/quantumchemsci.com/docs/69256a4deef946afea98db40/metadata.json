@@ -1,0 +1,28 @@
+{
+  "title": "Quantum Theory in Drug Discovery: From Atomic Structure to Molecular Interactions",
+  "description": "A comprehensive guide on the fundamentals of quantum mechanics, computational methodologies like QM/MM and DFT, and the transformative role of quantum computing in pharmaceutical research and drug discovery.",
+  "keywords": [
+    "Quantum Mechanics",
+    "Drug Discovery",
+    "QM/MM",
+    "Density Functional Theory",
+    "Schrodinger Equation",
+    "Chemical Bonding",
+    "Quantum Computing",
+    "Molecular Simulation",
+    "Variational Quantum Eigensolver"
+  ],
+  "topic": "Quantum Chemistry in Drug Discovery",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69256a4deef946afea98db40",
+  "source_url": "https://www.quantumchemsci.com/posts/quantumchemsci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "quantum-theory-in-drug-discovery-from-atomic-structure-to-molecular-interactions_20260331.pdf"
+}
