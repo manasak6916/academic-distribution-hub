@@ -1,0 +1,27 @@
+{
+  "title": "A Comprehensive Guide to Performing PCA on Gene Expression Data: From Theory to Clinical Applications",
+  "description": "A technical guide on applying Principal Component Analysis to gene expression data, covering mathematical foundations, preprocessing, advanced variations, and comparisons with other dimensionality reduction methods.",
+  "keywords": [
+    "Principal Component Analysis",
+    "Gene Expression",
+    "Transcriptomics",
+    "Dimensionality Reduction",
+    "Bioinformatics",
+    "RNA-seq",
+    "Sparse PCA",
+    "Batch Effects"
+  ],
+  "topic": "Bioinformatics and Computational Biology",
+  "intent": "tutorial",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.99,
+  "doc_id": "69256355f1303d137bb69146",
+  "source_url": "https://www.bioinforesearch.com/posts/bioinforesearch.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "a-comprehensive-guide-to-performing-pca-on-gene-expression-data-from-theory-to-clinical-applications_20260331.pdf"
+}
