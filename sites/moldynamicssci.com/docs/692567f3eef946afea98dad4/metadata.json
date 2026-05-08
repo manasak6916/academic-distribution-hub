@@ -1,0 +1,29 @@
+{
+  "title": "Tracking Atomic Motion: How Molecular Dynamics Simulations Reveal Biomolecular Behavior",
+  "description": "This article provides a comprehensive overview of Molecular Dynamics (MD) simulations, a computational technique that tracks atomic motion over time by solving Newton's equations of motion. Aimed at researchers and drug development professionals, it covers foundational principles, key algorithms like Velocity Verlet, and the critical role of force fields. The article explores advanced applications in drug discovery for optimizing drug delivery systems and studying intrinsically disordered proteins, while also addressing common challenges such as sampling limitations and computational cost. It further discusses troubleshooting, optimization strategies, and the vital integration of AI methods and experimental data for validation, highlighting MD's transformative impact on biomedical research.",
+  "keywords": [
+    "Molecular Dynamics",
+    "MD simulation",
+    "atomic motion",
+    "force field",
+    "drug discovery",
+    "biomolecular simulation",
+    "enhanced sampling",
+    "machine learning",
+    "integrative modeling",
+    "protein dynamics"
+  ],
+  "topic": "Computational Biology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers and drug development professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "692567f3eef946afea98dad4",
+  "source_url": "https://www.moldynamicssci.com/posts/moldynamicssci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "tracking-atomic-motion-how-molecular-dynamics-simulations-reveal-biomolecular-behavior_20260331.pdf"
+}
