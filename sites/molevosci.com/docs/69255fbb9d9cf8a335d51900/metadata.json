@@ -1,0 +1,29 @@
+{
+  "title": "LUCA Genome Reconstruction: Decoding the Complex Blueprint of Life's Common Ancestor",
+  "description": "This article provides a comprehensive analysis of the methodologies, challenges, and recent breakthroughs in reconstructing the genome of the Last Universal Common Ancestor (LUCA). Aimed at researchers, scientists, and drug development professionals, it explores the foundational biology of LUCA, details advanced phylogenetic and computational techniques for genomic inference, addresses key controversies and limitations in the field, and validates findings through comparative genomics.",
+  "keywords": [
+    "LUCA",
+    "Last Universal Common Ancestor",
+    "genome reconstruction",
+    "phylogenetic reconciliation",
+    "molecular clock dating",
+    "horizontal gene transfer",
+    "Wood-Ljungdahl pathway",
+    "ancestral sequence reconstruction",
+    "CRISPR-Cas",
+    "evolutionary biology"
+  ],
+  "topic": "Evolutionary Biology",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 90,
+  "confidence": 0.95,
+  "doc_id": "69255fbb9d9cf8a335d51900",
+  "source_url": "https://www.molevosci.com/posts/molevosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "luca-genome-reconstruction-decoding-the-complex-blueprint-of-life-s-common-ancestor_20260331.pdf"
+}
