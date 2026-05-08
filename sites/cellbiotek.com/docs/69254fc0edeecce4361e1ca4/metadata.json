@@ -1,0 +1,29 @@
+{
+  "title": "3D Cell Culture Techniques: Advancing Physiologically Relevant Models for Drug Discovery and Biomedical Research",
+  "description": "A comprehensive guide on 3D cell culture techniques, comparing scaffold-based and scaffold-free methods, and detailing their applications in drug discovery and biomedical research.",
+  "keywords": [
+    "3D cell culture",
+    "spheroids",
+    "organoids",
+    "drug discovery",
+    "tumor microenvironment",
+    "extracellular matrix",
+    "scaffold-based",
+    "scaffold-free",
+    "organs-on-chips",
+    "bioprinting"
+  ],
+  "topic": "Biomedical Research",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Biomedical researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "69254fc0edeecce4361e1ca4",
+  "source_url": "https://www.cellbiotek.com/posts/cellbiotek.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "3d-cell-culture-techniques-advancing-physiologically-relevant-models-for-drug-discovery-and-biomedical-research_20260331.pdf"
+}
