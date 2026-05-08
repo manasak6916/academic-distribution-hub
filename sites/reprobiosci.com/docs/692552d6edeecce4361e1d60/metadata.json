@@ -1,0 +1,29 @@
+{
+  "title": "Decoding the Transcriptome: Hormonal Regulation of the Menstrual Cycle and Its Clinical Implications",
+  "description": "A comprehensive review of the dynamic transcriptomic landscape of the female reproductive tract across the menstrual cycle, exploring hormonal regulation, advanced transcriptomic methodologies, and clinical implications for reproductive disorders.",
+  "keywords": [
+    "Transcriptomics",
+    "Menstrual Cycle",
+    "Hypothalamic-Pituitary-Ovarian Axis",
+    "Endometrium",
+    "Single-cell RNA sequencing",
+    "Spatial Transcriptomics",
+    "Endometriosis",
+    "Recurrent Implantation Failure",
+    "Wnt Signaling",
+    "Biomarkers"
+  ],
+  "topic": "Reproductive Biology and Transcriptomics",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.98,
+  "doc_id": "692552d6edeecce4361e1d60",
+  "source_url": "https://www.reprobiosci.com/posts/reprobiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "decoding-the-transcriptome-hormonal-regulation-of-the-menstrual-cycle-and-its-clinical-implications_20260331.pdf"
+}
