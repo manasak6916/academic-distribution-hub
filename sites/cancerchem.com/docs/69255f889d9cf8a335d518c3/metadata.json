@@ -1,0 +1,27 @@
+{
+  "title": "Mathematical Modeling of Tumor Growth Dynamics: From Foundational Theories to Clinical Translation",
+  "description": "A comprehensive technical guide exploring mathematical models for tumor growth dynamics, including classical ODEs, fractional calculus, agent-based models, and digital twins for clinical translation.",
+  "keywords": [
+    "Mathematical oncology",
+    "Tumor growth dynamics",
+    "Gompertz model",
+    "Agent-based models",
+    "Fractional calculus",
+    "Digital twins",
+    "Pharmacokinetic-pharmacodynamic modeling",
+    "Tumor microenvironment"
+  ],
+  "topic": "Mathematical Oncology",
+  "intent": "informational",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "Researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 0.95,
+  "doc_id": "69255f889d9cf8a335d518c3",
+  "source_url": "https://www.cancerchem.com/posts/cancerchem.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "mathematical-modeling-of-tumor-growth-dynamics-from-foundational-theories-to-clinical-translation_20260331.pdf"
+}
