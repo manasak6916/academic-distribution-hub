@@ -1,0 +1,29 @@
+{
+  "title": "Engineering Life: Core Principles of Synthetic Biology Revolutionizing Biomedical Engineering",
+  "description": "This article provides a comprehensive exploration of synthetic biology principles and their transformative impact on biomedical engineering. Tailored for researchers, scientists, and drug development professionals, it systematically examines foundational concepts, from genetic circuit design to synthetic biomaterials. The scope spans methodological applications in therapeutic development, troubleshooting of real-world deployment challenges, and validation through computational modeling and automation. By integrating the latest advances in AI-driven biodesign, automation, and cell-free systems, this review offers a practical framework for developing next-generation biomedical solutions, including living therapeutics, targeted drug delivery platforms, and diagnostic biosensors, while addressing critical optimization and validation requirements for clinical translation.",
+  "keywords": [
+    "synthetic biology",
+    "biomedical engineering",
+    "genetic circuits",
+    "CRISPR",
+    "cell-free systems",
+    "biomaterials",
+    "living therapeutics",
+    "DBTL cycle",
+    "AI in biology",
+    "biosensors"
+  ],
+  "topic": "Synthetic Biology in Biomedical Engineering",
+  "intent": "research",
+  "canonical": "",
+  "source": null,
+  "language": "en",
+  "audience": "researchers, scientists, and drug development professionals",
+  "quality_score": 95,
+  "confidence": 1.0,
+  "doc_id": "69255c1d2f6a387fb30da9bd",
+  "source_url": "https://www.synthbiosci.com/posts/synthbiosci.com",
+  "pdf_file": "report.pdf",
+  "stored_pdf_filename": "report.pdf",
+  "original_pdf_filename": "engineering-life-core-principles-of-synthetic-biology-revolutionizing-biomedical-engineering_20260331.pdf"
+}
